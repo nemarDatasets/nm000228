@@ -1,0 +1,735 @@
+onset	duration	sample	value	trial_type	sequence_id	item_number	list	task_type	condition	expected_article	unexpected_article	expected_noun	unexpected_noun	expected_cloze	unexpected_cloze	plausibility_expected	plausibility_unexpected	sentence_context	sentence_ending	has_question	question_text	question_answer
+37.152	0.2	37152	255	filler_word	n/a	n/a	n/a	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+37.637	0.2	37637	255	filler_word	n/a	n/a	n/a	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+38.123	0.2	38123	255	filler_word	n/a	n/a	n/a	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+38.608	0.2	38608	210	control_correct	n/a	n/a	n/a	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+38.892	0.0	38892	107	item_marker	0	7	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Robert built an aeroplane by himself.	by himself.	n/a	n/a	n/a
+39.093	0.2	39093	255	filler_word	0	7	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Robert built an aeroplane by himself.	by himself.	n/a	n/a	n/a
+39.578	0.2	39578	255	filler_word	0	7	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Robert built an aeroplane by himself.	by himself.	n/a	n/a	n/a
+42.021	0.2	42021	255	filler_word	0	7	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Robert built an aeroplane by himself.	by himself.	n/a	n/a	n/a
+42.506	0.2	42506	255	filler_word	0	7	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Robert built an aeroplane by himself.	by himself.	n/a	n/a	n/a
+42.991	0.2	42991	255	filler_word	0	7	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Robert built an aeroplane by himself.	by himself.	n/a	n/a	n/a
+43.476	0.2	43476	210	control_correct	0	7	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Robert built an aeroplane by himself.	by himself.	n/a	n/a	n/a
+43.761	0.0	43761	103	item_marker	1	3	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Thomas noticed an accent when Ben spoke.	when Ben spoke.	n/a	n/a	n/a
+43.961	0.2	43961	255	filler_word	1	3	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Thomas noticed an accent when Ben spoke.	when Ben spoke.	n/a	n/a	n/a
+44.447	0.2	44447	255	filler_word	1	3	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Thomas noticed an accent when Ben spoke.	when Ben spoke.	n/a	n/a	n/a
+44.932	0.2	44932	255	filler_word	1	3	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Thomas noticed an accent when Ben spoke.	when Ben spoke.	n/a	n/a	n/a
+47.023	0.2	47023	255	filler_word	1	3	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Thomas noticed an accent when Ben spoke.	when Ben spoke.	n/a	n/a	n/a
+47.508	0.2	47508	255	filler_word	1	3	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Thomas noticed an accent when Ben spoke.	when Ben spoke.	n/a	n/a	n/a
+47.994	0.2	47994	255	filler_word	1	3	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Thomas noticed an accent when Ben spoke.	when Ben spoke.	n/a	n/a	n/a
+48.479	0.2	48479	255	filler_word	1	3	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Thomas noticed an accent when Ben spoke.	when Ben spoke.	n/a	n/a	n/a
+48.964	0.2	48964	255	filler_word	1	3	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Thomas noticed an accent when Ben spoke.	when Ben spoke.	n/a	n/a	n/a
+49.449	0.2	49449	211	control_incorrect	1	3	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Thomas noticed an accent when Ben spoke.	when Ben spoke.	n/a	n/a	n/a
+49.733	0.0	49733	122	item_marker	2	22	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	His mother gave him an pound for ice-cream.	for ice-cream.	n/a	n/a	n/a
+49.934	0.2	49934	255	filler_word	2	22	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	His mother gave him an pound for ice-cream.	for ice-cream.	n/a	n/a	n/a
+50.419	0.2	50419	255	filler_word	2	22	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	His mother gave him an pound for ice-cream.	for ice-cream.	n/a	n/a	n/a
+53.197	0.2	53197	255	filler_word	2	22	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	His mother gave him an pound for ice-cream.	for ice-cream.	n/a	n/a	n/a
+53.682	0.2	53682	255	filler_word	2	22	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	His mother gave him an pound for ice-cream.	for ice-cream.	n/a	n/a	n/a
+54.167	0.2	54167	255	filler_word	2	22	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	His mother gave him an pound for ice-cream.	for ice-cream.	n/a	n/a	n/a
+54.652	0.2	54652	211	control_incorrect	2	22	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	His mother gave him an pound for ice-cream.	for ice-cream.	n/a	n/a	n/a
+54.937	0.0	54937	101	item_marker	3	1	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	David found a apple on the floor.	on the floor.	n/a	n/a	n/a
+55.137	0.2	55137	255	filler_word	3	1	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	David found a apple on the floor.	on the floor.	n/a	n/a	n/a
+55.623	0.2	55623	255	filler_word	3	1	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	David found a apple on the floor.	on the floor.	n/a	n/a	n/a
+56.108	0.2	56108	255	filler_word	3	1	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	David found a apple on the floor.	on the floor.	n/a	n/a	n/a
+59.638	0.2	59638	255	filler_word	3	1	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	David found a apple on the floor.	on the floor.	n/a	n/a	n/a
+60.123	0.2	60123	255	filler_word	3	1	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	David found a apple on the floor.	on the floor.	n/a	n/a	n/a
+60.608	0.2	60608	255	filler_word	3	1	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	David found a apple on the floor.	on the floor.	n/a	n/a	n/a
+61.093	0.2	61093	211	control_incorrect	3	1	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	David found a apple on the floor.	on the floor.	n/a	n/a	n/a
+61.378	0.0	61378	117	item_marker	4	17	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	They hold a election every four years.	every four years.	n/a	n/a	n/a
+61.579	0.2	61579	255	filler_word	4	17	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	They hold a election every four years.	every four years.	n/a	n/a	n/a
+62.064	0.2	62064	255	filler_word	4	17	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	They hold a election every four years.	every four years.	n/a	n/a	n/a
+62.549	0.2	62549	255	filler_word	4	17	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	They hold a election every four years.	every four years.	n/a	n/a	n/a
+68.639	0.2	68639	255	filler_word	4	17	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	They hold a election every four years.	every four years.	n/a	n/a	n/a
+69.124	0.2	69124	255	filler_word	4	17	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	They hold a election every four years.	every four years.	n/a	n/a	n/a
+69.609	0.2	69609	255	filler_word	4	17	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	They hold a election every four years.	every four years.	n/a	n/a	n/a
+70.094	0.2	70094	255	filler_word	4	17	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	They hold a election every four years.	every four years.	n/a	n/a	n/a
+70.58	0.2	70580	210	control_correct	4	17	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	They hold a election every four years.	every four years.	n/a	n/a	n/a
+70.864	0.0	70864	140	item_marker	5	40	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I would like a tattoo on my wrist.	on my wrist.	n/a	n/a	n/a
+71.065	0.2	71065	255	filler_word	5	40	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I would like a tattoo on my wrist.	on my wrist.	n/a	n/a	n/a
+71.55	0.2	71550	255	filler_word	5	40	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I would like a tattoo on my wrist.	on my wrist.	n/a	n/a	n/a
+72.035	0.2	72035	255	filler_word	5	40	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I would like a tattoo on my wrist.	on my wrist.	n/a	n/a	n/a
+74.528	0.2	74528	255	filler_word	5	40	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I would like a tattoo on my wrist.	on my wrist.	n/a	n/a	n/a
+75.013	0.2	75013	255	filler_word	5	40	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I would like a tattoo on my wrist.	on my wrist.	n/a	n/a	n/a
+75.498	0.2	75498	255	filler_word	5	40	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I would like a tattoo on my wrist.	on my wrist.	n/a	n/a	n/a
+75.983	0.2	75983	255	filler_word	5	40	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I would like a tattoo on my wrist.	on my wrist.	n/a	n/a	n/a
+76.469	0.2	76469	210	control_correct	5	40	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I would like a tattoo on my wrist.	on my wrist.	n/a	n/a	n/a
+76.753	0.0	76753	104	item_marker	6	4	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	She had had a lisp her whole life.	her whole life.	n/a	n/a	n/a
+76.954	0.2	76954	255	filler_word	6	4	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	She had had a lisp her whole life.	her whole life.	n/a	n/a	n/a
+77.439	0.2	77439	255	filler_word	6	4	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	She had had a lisp her whole life.	her whole life.	n/a	n/a	n/a
+77.924	0.2	77924	255	filler_word	6	4	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	She had had a lisp her whole life.	her whole life.	n/a	n/a	n/a
+80.902	0.2	80902	255	filler_word	6	4	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	She had had a lisp her whole life.	her whole life.	n/a	n/a	n/a
+81.387	0.2	81387	255	filler_word	6	4	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	She had had a lisp her whole life.	her whole life.	n/a	n/a	n/a
+81.873	0.2	81873	255	filler_word	6	4	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	She had had a lisp her whole life.	her whole life.	n/a	n/a	n/a
+82.358	0.2	82358	210	control_correct	6	4	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	She had had a lisp her whole life.	her whole life.	n/a	n/a	n/a
+82.642	0.0	82642	139	item_marker	7	39	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I got an infection after the operation.	after the operation.	n/a	n/a	n/a
+82.843	0.2	82843	255	filler_word	7	39	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I got an infection after the operation.	after the operation.	n/a	n/a	n/a
+83.328	0.2	83328	255	filler_word	7	39	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I got an infection after the operation.	after the operation.	n/a	n/a	n/a
+83.813	0.2	83813	255	filler_word	7	39	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I got an infection after the operation.	after the operation.	n/a	n/a	n/a
+86.841	0.2	86841	255	filler_word	7	39	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I got an infection after the operation.	after the operation.	n/a	n/a	n/a
+87.327	0.2	87327	255	filler_word	7	39	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I got an infection after the operation.	after the operation.	n/a	n/a	n/a
+87.812	0.2	87812	255	filler_word	7	39	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I got an infection after the operation.	after the operation.	n/a	n/a	n/a
+88.297	0.2	88297	255	filler_word	7	39	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I got an infection after the operation.	after the operation.	n/a	n/a	n/a
+88.782	0.2	88782	255	filler_word	7	39	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I got an infection after the operation.	after the operation.	n/a	n/a	n/a
+89.267	0.2	89267	255	filler_word	7	39	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I got an infection after the operation.	after the operation.	n/a	n/a	n/a
+89.753	0.2	89753	255	filler_word	7	39	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I got an infection after the operation.	after the operation.	n/a	n/a	n/a
+90.238	0.2	90238	210	control_correct	7	39	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I got an infection after the operation.	after the operation.	n/a	n/a	n/a
+90.522	0.0	90522	135	item_marker	8	35	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	If you go to Edinburgh, bring an umbrella with you.	with you.	n/a	n/a	n/a
+90.723	0.2	90723	255	filler_word	8	35	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	If you go to Edinburgh, bring an umbrella with you.	with you.	n/a	n/a	n/a
+91.208	0.2	91208	255	filler_word	8	35	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	If you go to Edinburgh, bring an umbrella with you.	with you.	n/a	n/a	n/a
+93.5	0.2	93500	255	filler_word	8	35	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	If you go to Edinburgh, bring an umbrella with you.	with you.	n/a	n/a	n/a
+93.985	0.2	93985	255	filler_word	8	35	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	If you go to Edinburgh, bring an umbrella with you.	with you.	n/a	n/a	n/a
+94.471	0.2	94471	255	filler_word	8	35	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	If you go to Edinburgh, bring an umbrella with you.	with you.	n/a	n/a	n/a
+94.956	0.2	94956	211	control_incorrect	8	35	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	If you go to Edinburgh, bring an umbrella with you.	with you.	n/a	n/a	n/a
+95.24	0.0	95240	138	item_marker	9	38	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I asked an plumber to fix the sink.	to fix the sink.	n/a	n/a	n/a
+95.441	0.2	95441	255	filler_word	9	38	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I asked an plumber to fix the sink.	to fix the sink.	n/a	n/a	n/a
+95.926	0.2	95926	255	filler_word	9	38	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I asked an plumber to fix the sink.	to fix the sink.	n/a	n/a	n/a
+96.411	0.2	96411	255	filler_word	9	38	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I asked an plumber to fix the sink.	to fix the sink.	n/a	n/a	n/a
+96.896	0.2	96896	255	filler_word	9	38	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I asked an plumber to fix the sink.	to fix the sink.	n/a	n/a	n/a
+99.808	0.2	99808	255	filler_word	9	38	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I asked an plumber to fix the sink.	to fix the sink.	n/a	n/a	n/a
+100.293	0.2	100293	255	filler_word	9	38	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I asked an plumber to fix the sink.	to fix the sink.	n/a	n/a	n/a
+100.778	0.2	100778	255	filler_word	9	38	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I asked an plumber to fix the sink.	to fix the sink.	n/a	n/a	n/a
+101.263	0.2	101263	255	filler_word	9	38	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I asked an plumber to fix the sink.	to fix the sink.	n/a	n/a	n/a
+101.748	0.2	101748	255	filler_word	9	38	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I asked an plumber to fix the sink.	to fix the sink.	n/a	n/a	n/a
+102.233	0.2	102233	210	control_correct	9	38	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I asked an plumber to fix the sink.	to fix the sink.	n/a	n/a	n/a
+102.518	0.0	102518	115	item_marker	10	15	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You have to get an education before looking for a job.	before looking for a job.	n/a	n/a	n/a
+102.719	0.2	102719	255	filler_word	10	15	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You have to get an education before looking for a job.	before looking for a job.	n/a	n/a	n/a
+103.204	0.2	103204	255	filler_word	10	15	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You have to get an education before looking for a job.	before looking for a job.	n/a	n/a	n/a
+103.689	0.2	103689	255	filler_word	10	15	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You have to get an education before looking for a job.	before looking for a job.	n/a	n/a	n/a
+104.174	0.2	104174	255	filler_word	10	15	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You have to get an education before looking for a job.	before looking for a job.	n/a	n/a	n/a
+104.659	0.2	104659	255	filler_word	10	15	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You have to get an education before looking for a job.	before looking for a job.	n/a	n/a	n/a
+107.504	0.2	107504	255	filler_word	10	15	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You have to get an education before looking for a job.	before looking for a job.	n/a	n/a	n/a
+107.989	0.2	107989	255	filler_word	10	15	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You have to get an education before looking for a job.	before looking for a job.	n/a	n/a	n/a
+108.474	0.2	108474	255	filler_word	10	15	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You have to get an education before looking for a job.	before looking for a job.	n/a	n/a	n/a
+108.959	0.2	108959	255	filler_word	10	15	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You have to get an education before looking for a job.	before looking for a job.	n/a	n/a	n/a
+109.444	0.2	109444	255	filler_word	10	15	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You have to get an education before looking for a job.	before looking for a job.	n/a	n/a	n/a
+109.929	0.2	109929	210	control_correct	10	15	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You have to get an education before looking for a job.	before looking for a job.	n/a	n/a	n/a
+110.214	0.0	110214	116	item_marker	11	16	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Mike was looking for a book to read.	to read.	n/a	n/a	n/a
+110.415	0.2	110415	255	filler_word	11	16	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Mike was looking for a book to read.	to read.	n/a	n/a	n/a
+110.9	0.2	110900	255	filler_word	11	16	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Mike was looking for a book to read.	to read.	n/a	n/a	n/a
+113.142	0.2	113142	255	filler_word	11	16	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Mike was looking for a book to read.	to read.	n/a	n/a	n/a
+113.627	0.2	113627	255	filler_word	11	16	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Mike was looking for a book to read.	to read.	n/a	n/a	n/a
+114.112	0.2	114112	255	filler_word	11	16	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Mike was looking for a book to read.	to read.	n/a	n/a	n/a
+114.597	0.2	114597	255	filler_word	11	16	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Mike was looking for a book to read.	to read.	n/a	n/a	n/a
+115.082	0.2	115082	255	filler_word	11	16	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Mike was looking for a book to read.	to read.	n/a	n/a	n/a
+115.568	0.2	115568	211	control_incorrect	11	16	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Mike was looking for a book to read.	to read.	n/a	n/a	n/a
+115.852	0.0	115852	118	item_marker	12	18	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He has never seen an parade like this.	like this.	n/a	n/a	n/a
+116.053	0.2	116053	255	filler_word	12	18	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He has never seen an parade like this.	like this.	n/a	n/a	n/a
+116.538	0.2	116538	255	filler_word	12	18	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He has never seen an parade like this.	like this.	n/a	n/a	n/a
+118.479	0.2	118479	255	filler_word	12	18	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He has never seen an parade like this.	like this.	n/a	n/a	n/a
+118.964	0.2	118964	255	filler_word	12	18	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He has never seen an parade like this.	like this.	n/a	n/a	n/a
+119.449	0.2	119449	255	filler_word	12	18	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He has never seen an parade like this.	like this.	n/a	n/a	n/a
+119.934	0.2	119934	255	filler_word	12	18	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He has never seen an parade like this.	like this.	n/a	n/a	n/a
+120.419	0.2	120419	255	filler_word	12	18	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He has never seen an parade like this.	like this.	n/a	n/a	n/a
+120.905	0.2	120905	211	control_incorrect	12	18	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He has never seen an parade like this.	like this.	n/a	n/a	n/a
+121.189	0.0	121189	137	item_marker	13	37	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Jim wanted to become a architect when he was little.	when he was little.	n/a	n/a	n/a
+121.39	0.2	121390	255	filler_word	13	37	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Jim wanted to become a architect when he was little.	when he was little.	n/a	n/a	n/a
+121.875	0.2	121875	255	filler_word	13	37	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Jim wanted to become a architect when he was little.	when he was little.	n/a	n/a	n/a
+122.36	0.2	122360	255	filler_word	13	37	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Jim wanted to become a architect when he was little.	when he was little.	n/a	n/a	n/a
+122.845	0.2	122845	255	filler_word	13	37	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Jim wanted to become a architect when he was little.	when he was little.	n/a	n/a	n/a
+125.288	0.2	125288	255	filler_word	13	37	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Jim wanted to become a architect when he was little.	when he was little.	n/a	n/a	n/a
+125.773	0.2	125773	255	filler_word	13	37	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Jim wanted to become a architect when he was little.	when he was little.	n/a	n/a	n/a
+126.258	0.2	126258	255	filler_word	13	37	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Jim wanted to become a architect when he was little.	when he was little.	n/a	n/a	n/a
+126.743	0.2	126743	210	control_correct	13	37	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Jim wanted to become a architect when he was little.	when he was little.	n/a	n/a	n/a
+127.028	0.0	127028	119	item_marker	14	19	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	They had an affair for many years.	for many years.	n/a	n/a	n/a
+127.229	0.2	127229	255	filler_word	14	19	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	They had an affair for many years.	for many years.	n/a	n/a	n/a
+127.714	0.2	127714	255	filler_word	14	19	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	They had an affair for many years.	for many years.	n/a	n/a	n/a
+128.199	0.2	128199	255	filler_word	14	19	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	They had an affair for many years.	for many years.	n/a	n/a	n/a
+133.436	0.2	133436	255	filler_word	14	19	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	They had an affair for many years.	for many years.	n/a	n/a	n/a
+133.921	0.2	133921	255	filler_word	14	19	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	They had an affair for many years.	for many years.	n/a	n/a	n/a
+134.406	0.2	134406	255	filler_word	14	19	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	They had an affair for many years.	for many years.	n/a	n/a	n/a
+134.891	0.2	134891	255	filler_word	14	19	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	They had an affair for many years.	for many years.	n/a	n/a	n/a
+135.376	0.2	135376	211	control_incorrect	14	19	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	They had an affair for many years.	for many years.	n/a	n/a	n/a
+135.661	0.0	135661	110	item_marker	15	10	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Parents gave her an bird for her birthday.	for her birthday.	n/a	n/a	n/a
+135.862	0.2	135862	255	filler_word	15	10	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Parents gave her an bird for her birthday.	for her birthday.	n/a	n/a	n/a
+136.347	0.2	136347	255	filler_word	15	10	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Parents gave her an bird for her birthday.	for her birthday.	n/a	n/a	n/a
+136.832	0.2	136832	255	filler_word	15	10	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Parents gave her an bird for her birthday.	for her birthday.	n/a	n/a	n/a
+139.425	0.2	139425	255	filler_word	15	10	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Parents gave her an bird for her birthday.	for her birthday.	n/a	n/a	n/a
+139.91	0.2	139910	255	filler_word	15	10	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Parents gave her an bird for her birthday.	for her birthday.	n/a	n/a	n/a
+140.395	0.2	140395	255	filler_word	15	10	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Parents gave her an bird for her birthday.	for her birthday.	n/a	n/a	n/a
+140.881	0.2	140881	210	control_correct	15	10	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Parents gave her an bird for her birthday.	for her birthday.	n/a	n/a	n/a
+141.165	0.0	141165	108	item_marker	16	8	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	There was a kite in the sky.	in the sky.	n/a	n/a	n/a
+141.366	0.2	141366	255	filler_word	16	8	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	There was a kite in the sky.	in the sky.	n/a	n/a	n/a
+141.851	0.2	141851	255	filler_word	16	8	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	There was a kite in the sky.	in the sky.	n/a	n/a	n/a
+142.336	0.2	142336	255	filler_word	16	8	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	There was a kite in the sky.	in the sky.	n/a	n/a	n/a
+144.461	0.2	144461	255	filler_word	16	8	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	There was a kite in the sky.	in the sky.	n/a	n/a	n/a
+144.946	0.2	144946	255	filler_word	16	8	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	There was a kite in the sky.	in the sky.	n/a	n/a	n/a
+145.431	0.2	145431	255	filler_word	16	8	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	There was a kite in the sky.	in the sky.	n/a	n/a	n/a
+145.916	0.2	145916	210	control_correct	16	8	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	There was a kite in the sky.	in the sky.	n/a	n/a	n/a
+146.201	0.0	146201	112	item_marker	17	12	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Anna has a fish as a pet.	as a pet.	n/a	n/a	n/a
+146.402	0.2	146402	255	filler_word	17	12	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Anna has a fish as a pet.	as a pet.	n/a	n/a	n/a
+146.887	0.2	146887	255	filler_word	17	12	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Anna has a fish as a pet.	as a pet.	n/a	n/a	n/a
+147.372	0.2	147372	255	filler_word	17	12	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Anna has a fish as a pet.	as a pet.	n/a	n/a	n/a
+150.885	0.2	150885	255	filler_word	17	12	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Anna has a fish as a pet.	as a pet.	n/a	n/a	n/a
+151.371	0.2	151371	255	filler_word	17	12	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Anna has a fish as a pet.	as a pet.	n/a	n/a	n/a
+151.856	0.2	151856	255	filler_word	17	12	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Anna has a fish as a pet.	as a pet.	n/a	n/a	n/a
+152.341	0.2	152341	211	control_incorrect	17	12	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Anna has a fish as a pet.	as a pet.	n/a	n/a	n/a
+152.625	0.0	152625	130	item_marker	18	30	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I rented an studio near the university.	near the university.	n/a	n/a	n/a
+152.826	0.2	152826	255	filler_word	18	30	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I rented an studio near the university.	near the university.	n/a	n/a	n/a
+153.311	0.2	153311	255	filler_word	18	30	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I rented an studio near the university.	near the university.	n/a	n/a	n/a
+153.796	0.2	153796	255	filler_word	18	30	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I rented an studio near the university.	near the university.	n/a	n/a	n/a
+155.988	0.2	155988	255	filler_word	18	30	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I rented an studio near the university.	near the university.	n/a	n/a	n/a
+156.473	0.2	156473	255	filler_word	18	30	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I rented an studio near the university.	near the university.	n/a	n/a	n/a
+156.959	0.2	156959	255	filler_word	18	30	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I rented an studio near the university.	near the university.	n/a	n/a	n/a
+157.444	0.2	157444	255	filler_word	18	30	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I rented an studio near the university.	near the university.	n/a	n/a	n/a
+157.929	0.2	157929	255	filler_word	18	30	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I rented an studio near the university.	near the university.	n/a	n/a	n/a
+158.414	0.2	158414	210	control_correct	18	30	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I rented an studio near the university.	near the university.	n/a	n/a	n/a
+158.698	0.0	158698	128	item_marker	19	28	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I took part in a race once.	once.	n/a	n/a	n/a
+158.899	0.2	158899	255	filler_word	19	28	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I took part in a race once.	once.	n/a	n/a	n/a
+160.974	0.2	160974	255	filler_word	19	28	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I took part in a race once.	once.	n/a	n/a	n/a
+161.459	0.2	161459	255	filler_word	19	28	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I took part in a race once.	once.	n/a	n/a	n/a
+161.944	0.2	161944	255	filler_word	19	28	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I took part in a race once.	once.	n/a	n/a	n/a
+162.429	0.2	162429	210	control_correct	19	28	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I took part in a race once.	once.	n/a	n/a	n/a
+162.714	0.0	162714	120	item_marker	20	20	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Never pick a fight with the wrong guy.	with the wrong guy.	n/a	n/a	n/a
+162.915	0.2	162915	255	filler_word	20	20	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Never pick a fight with the wrong guy.	with the wrong guy.	n/a	n/a	n/a
+163.4	0.2	163400	255	filler_word	20	20	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Never pick a fight with the wrong guy.	with the wrong guy.	n/a	n/a	n/a
+163.885	0.2	163885	255	filler_word	20	20	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Never pick a fight with the wrong guy.	with the wrong guy.	n/a	n/a	n/a
+164.37	0.2	164370	255	filler_word	20	20	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Never pick a fight with the wrong guy.	with the wrong guy.	n/a	n/a	n/a
+167.783	0.2	167783	255	filler_word	20	20	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Never pick a fight with the wrong guy.	with the wrong guy.	n/a	n/a	n/a
+168.268	0.2	168268	255	filler_word	20	20	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Never pick a fight with the wrong guy.	with the wrong guy.	n/a	n/a	n/a
+168.753	0.2	168753	255	filler_word	20	20	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Never pick a fight with the wrong guy.	with the wrong guy.	n/a	n/a	n/a
+169.239	0.2	169239	255	filler_word	20	20	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Never pick a fight with the wrong guy.	with the wrong guy.	n/a	n/a	n/a
+169.724	0.2	169724	211	control_incorrect	20	20	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Never pick a fight with the wrong guy.	with the wrong guy.	n/a	n/a	n/a
+170.008	0.0	170008	105	item_marker	21	5	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He offered her a apology after the incident.	after the incident.	n/a	n/a	n/a
+170.209	0.2	170209	255	filler_word	21	5	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He offered her a apology after the incident.	after the incident.	n/a	n/a	n/a
+170.694	0.2	170694	255	filler_word	21	5	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He offered her a apology after the incident.	after the incident.	n/a	n/a	n/a
+171.179	0.2	171179	255	filler_word	21	5	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He offered her a apology after the incident.	after the incident.	n/a	n/a	n/a
+174.191	0.2	174191	255	filler_word	21	5	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He offered her a apology after the incident.	after the incident.	n/a	n/a	n/a
+174.676	0.2	174676	255	filler_word	21	5	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He offered her a apology after the incident.	after the incident.	n/a	n/a	n/a
+175.161	0.2	175161	255	filler_word	21	5	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He offered her a apology after the incident.	after the incident.	n/a	n/a	n/a
+175.646	0.2	175646	255	filler_word	21	5	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He offered her a apology after the incident.	after the incident.	n/a	n/a	n/a
+176.132	0.2	176132	210	control_correct	21	5	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He offered her a apology after the incident.	after the incident.	n/a	n/a	n/a
+176.416	0.0	176416	136	item_marker	22	36	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I always read a newspaper at breakfast.	at breakfast.	n/a	n/a	n/a
+176.617	0.2	176617	255	filler_word	22	36	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I always read a newspaper at breakfast.	at breakfast.	n/a	n/a	n/a
+177.102	0.2	177102	255	filler_word	22	36	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I always read a newspaper at breakfast.	at breakfast.	n/a	n/a	n/a
+179.478	0.2	179478	255	filler_word	22	36	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I always read a newspaper at breakfast.	at breakfast.	n/a	n/a	n/a
+179.963	0.2	179963	255	filler_word	22	36	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I always read a newspaper at breakfast.	at breakfast.	n/a	n/a	n/a
+180.448	0.2	180448	255	filler_word	22	36	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I always read a newspaper at breakfast.	at breakfast.	n/a	n/a	n/a
+180.933	0.2	180933	255	filler_word	22	36	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I always read a newspaper at breakfast.	at breakfast.	n/a	n/a	n/a
+181.418	0.2	181418	211	control_incorrect	22	36	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I always read a newspaper at breakfast.	at breakfast.	n/a	n/a	n/a
+181.703	0.0	181703	102	item_marker	23	2	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The boy ate an carrot as a snack.	as a snack.	n/a	n/a	n/a
+181.904	0.2	181904	255	filler_word	23	2	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The boy ate an carrot as a snack.	as a snack.	n/a	n/a	n/a
+182.389	0.2	182389	255	filler_word	23	2	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The boy ate an carrot as a snack.	as a snack.	n/a	n/a	n/a
+182.874	0.2	182874	255	filler_word	23	2	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The boy ate an carrot as a snack.	as a snack.	n/a	n/a	n/a
+185.417	0.2	185417	255	filler_word	23	2	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The boy ate an carrot as a snack.	as a snack.	n/a	n/a	n/a
+185.902	0.2	185902	255	filler_word	23	2	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The boy ate an carrot as a snack.	as a snack.	n/a	n/a	n/a
+186.387	0.2	186387	255	filler_word	23	2	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The boy ate an carrot as a snack.	as a snack.	n/a	n/a	n/a
+186.872	0.2	186872	211	control_incorrect	23	2	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The boy ate an carrot as a snack.	as a snack.	n/a	n/a	n/a
+187.157	0.0	187157	109	item_marker	24	9	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	We heard a echo in the temple.	in the temple.	n/a	n/a	n/a
+187.358	0.2	187358	255	filler_word	24	9	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	We heard a echo in the temple.	in the temple.	n/a	n/a	n/a
+187.843	0.2	187843	255	filler_word	24	9	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	We heard a echo in the temple.	in the temple.	n/a	n/a	n/a
+188.328	0.2	188328	255	filler_word	24	9	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	We heard a echo in the temple.	in the temple.	n/a	n/a	n/a
+191.373	0.2	191373	255	filler_word	24	9	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	We heard a echo in the temple.	in the temple.	n/a	n/a	n/a
+191.858	0.2	191858	255	filler_word	24	9	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	We heard a echo in the temple.	in the temple.	n/a	n/a	n/a
+192.343	0.2	192343	255	filler_word	24	9	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	We heard a echo in the temple.	in the temple.	n/a	n/a	n/a
+192.828	0.2	192828	210	control_correct	24	9	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	We heard a echo in the temple.	in the temple.	n/a	n/a	n/a
+193.113	0.0	193113	127	item_marker	25	27	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Sarah had an accident while going home.	while going home.	n/a	n/a	n/a
+193.314	0.2	193314	255	filler_word	25	27	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Sarah had an accident while going home.	while going home.	n/a	n/a	n/a
+193.799	0.2	193799	255	filler_word	25	27	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Sarah had an accident while going home.	while going home.	n/a	n/a	n/a
+194.284	0.2	194284	255	filler_word	25	27	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Sarah had an accident while going home.	while going home.	n/a	n/a	n/a
+196.442	0.2	196442	255	filler_word	25	27	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Sarah had an accident while going home.	while going home.	n/a	n/a	n/a
+196.927	0.2	196927	255	filler_word	25	27	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Sarah had an accident while going home.	while going home.	n/a	n/a	n/a
+197.413	0.2	197413	255	filler_word	25	27	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Sarah had an accident while going home.	while going home.	n/a	n/a	n/a
+197.898	0.2	197898	255	filler_word	25	27	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Sarah had an accident while going home.	while going home.	n/a	n/a	n/a
+198.383	0.2	198383	211	control_incorrect	25	27	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Sarah had an accident while going home.	while going home.	n/a	n/a	n/a
+198.667	0.0	198667	106	item_marker	26	6	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	We asked for an cheque after the dinner.	after the dinner.	n/a	n/a	n/a
+198.868	0.2	198868	255	filler_word	26	6	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	We asked for an cheque after the dinner.	after the dinner.	n/a	n/a	n/a
+199.353	0.2	199353	255	filler_word	26	6	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	We asked for an cheque after the dinner.	after the dinner.	n/a	n/a	n/a
+199.839	0.2	199839	255	filler_word	26	6	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	We asked for an cheque after the dinner.	after the dinner.	n/a	n/a	n/a
+202.632	0.2	202632	255	filler_word	26	6	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	We asked for an cheque after the dinner.	after the dinner.	n/a	n/a	n/a
+203.118	0.2	203118	255	filler_word	26	6	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	We asked for an cheque after the dinner.	after the dinner.	n/a	n/a	n/a
+203.603	0.2	203603	255	filler_word	26	6	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	We asked for an cheque after the dinner.	after the dinner.	n/a	n/a	n/a
+204.088	0.2	204088	255	filler_word	26	6	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	We asked for an cheque after the dinner.	after the dinner.	n/a	n/a	n/a
+204.573	0.2	204573	210	control_correct	26	6	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	We asked for an cheque after the dinner.	after the dinner.	n/a	n/a	n/a
+204.858	0.0	204858	131	item_marker	27	31	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Hannah sent me an invitation to her wedding.	to her wedding.	n/a	n/a	n/a
+205.058	0.2	205058	255	filler_word	27	31	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Hannah sent me an invitation to her wedding.	to her wedding.	n/a	n/a	n/a
+205.544	0.2	205544	255	filler_word	27	31	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Hannah sent me an invitation to her wedding.	to her wedding.	n/a	n/a	n/a
+206.029	0.2	206029	255	filler_word	27	31	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Hannah sent me an invitation to her wedding.	to her wedding.	n/a	n/a	n/a
+208.12	0.2	208120	255	filler_word	27	31	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Hannah sent me an invitation to her wedding.	to her wedding.	n/a	n/a	n/a
+208.605	0.2	208605	255	filler_word	27	31	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Hannah sent me an invitation to her wedding.	to her wedding.	n/a	n/a	n/a
+209.09	0.2	209090	255	filler_word	27	31	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Hannah sent me an invitation to her wedding.	to her wedding.	n/a	n/a	n/a
+209.576	0.2	209576	255	filler_word	27	31	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Hannah sent me an invitation to her wedding.	to her wedding.	n/a	n/a	n/a
+210.061	0.2	210061	211	control_incorrect	27	31	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Hannah sent me an invitation to her wedding.	to her wedding.	n/a	n/a	n/a
+210.345	0.0	210345	121	item_marker	28	21	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He asked for a allowance for the next year.	for the next year.	n/a	n/a	n/a
+210.546	0.2	210546	255	filler_word	28	21	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He asked for a allowance for the next year.	for the next year.	n/a	n/a	n/a
+211.031	0.2	211031	255	filler_word	28	21	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He asked for a allowance for the next year.	for the next year.	n/a	n/a	n/a
+211.516	0.2	211516	255	filler_word	28	21	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He asked for a allowance for the next year.	for the next year.	n/a	n/a	n/a
+212.001	0.2	212001	255	filler_word	28	21	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He asked for a allowance for the next year.	for the next year.	n/a	n/a	n/a
+214.411	0.2	214411	255	filler_word	28	21	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He asked for a allowance for the next year.	for the next year.	n/a	n/a	n/a
+214.896	0.2	214896	255	filler_word	28	21	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He asked for a allowance for the next year.	for the next year.	n/a	n/a	n/a
+215.381	0.2	215381	255	filler_word	28	21	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He asked for a allowance for the next year.	for the next year.	n/a	n/a	n/a
+215.866	0.2	215866	211	control_incorrect	28	21	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He asked for a allowance for the next year.	for the next year.	n/a	n/a	n/a
+216.151	0.0	216151	126	item_marker	29	26	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I put an hanger in the wardrobe.	in the wardrobe.	n/a	n/a	n/a
+216.351	0.2	216351	255	filler_word	29	26	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I put an hanger in the wardrobe.	in the wardrobe.	n/a	n/a	n/a
+216.837	0.2	216837	255	filler_word	29	26	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I put an hanger in the wardrobe.	in the wardrobe.	n/a	n/a	n/a
+217.322	0.2	217322	255	filler_word	29	26	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I put an hanger in the wardrobe.	in the wardrobe.	n/a	n/a	n/a
+219.447	0.2	219447	255	filler_word	29	26	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I put an hanger in the wardrobe.	in the wardrobe.	n/a	n/a	n/a
+219.932	0.2	219932	255	filler_word	29	26	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I put an hanger in the wardrobe.	in the wardrobe.	n/a	n/a	n/a
+220.417	0.2	220417	255	filler_word	29	26	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I put an hanger in the wardrobe.	in the wardrobe.	n/a	n/a	n/a
+220.902	0.2	220902	255	filler_word	29	26	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I put an hanger in the wardrobe.	in the wardrobe.	n/a	n/a	n/a
+221.387	0.2	221387	255	filler_word	29	26	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I put an hanger in the wardrobe.	in the wardrobe.	n/a	n/a	n/a
+221.872	0.2	221872	211	control_incorrect	29	26	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I put an hanger in the wardrobe.	in the wardrobe.	n/a	n/a	n/a
+222.157	0.0	222157	129	item_marker	30	29	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Luke is looking for an flat in Venice.	in Venice.	n/a	n/a	n/a
+222.358	0.2	222358	255	filler_word	30	29	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Luke is looking for an flat in Venice.	in Venice.	n/a	n/a	n/a
+222.843	0.2	222843	255	filler_word	30	29	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Luke is looking for an flat in Venice.	in Venice.	n/a	n/a	n/a
+224.834	0.2	224834	255	filler_word	30	29	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Luke is looking for an flat in Venice.	in Venice.	n/a	n/a	n/a
+225.319	0.2	225319	255	filler_word	30	29	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Luke is looking for an flat in Venice.	in Venice.	n/a	n/a	n/a
+225.804	0.2	225804	255	filler_word	30	29	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Luke is looking for an flat in Venice.	in Venice.	n/a	n/a	n/a
+226.306	0.2	226306	255	filler_word	30	29	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Luke is looking for an flat in Venice.	in Venice.	n/a	n/a	n/a
+226.791	0.2	226791	211	control_incorrect	30	29	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Luke is looking for an flat in Venice.	in Venice.	n/a	n/a	n/a
+227.076	0.0	227076	125	item_marker	31	25	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	She never used a iron in her life.	in her life.	n/a	n/a	n/a
+227.276	0.2	227276	255	filler_word	31	25	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	She never used a iron in her life.	in her life.	n/a	n/a	n/a
+227.762	0.2	227762	255	filler_word	31	25	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	She never used a iron in her life.	in her life.	n/a	n/a	n/a
+228.247	0.2	228247	255	filler_word	31	25	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	She never used a iron in her life.	in her life.	n/a	n/a	n/a
+234.755	0.2	234755	255	filler_word	31	25	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	She never used a iron in her life.	in her life.	n/a	n/a	n/a
+235.24	0.2	235240	255	filler_word	31	25	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	She never used a iron in her life.	in her life.	n/a	n/a	n/a
+235.725	0.2	235725	255	filler_word	31	25	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	She never used a iron in her life.	in her life.	n/a	n/a	n/a
+236.21	0.2	236210	255	filler_word	31	25	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	She never used a iron in her life.	in her life.	n/a	n/a	n/a
+236.696	0.2	236696	255	filler_word	31	25	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	She never used a iron in her life.	in her life.	n/a	n/a	n/a
+237.181	0.2	237181	211	control_incorrect	31	25	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	She never used a iron in her life.	in her life.	n/a	n/a	n/a
+237.465	0.0	237465	134	item_marker	32	34	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Children learn to ride an bicycle very easily.	very easily.	n/a	n/a	n/a
+237.666	0.2	237666	255	filler_word	32	34	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Children learn to ride an bicycle very easily.	very easily.	n/a	n/a	n/a
+238.151	0.2	238151	255	filler_word	32	34	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Children learn to ride an bicycle very easily.	very easily.	n/a	n/a	n/a
+241.246	0.2	241246	255	filler_word	32	34	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Children learn to ride an bicycle very easily.	very easily.	n/a	n/a	n/a
+241.731	0.2	241731	255	filler_word	32	34	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Children learn to ride an bicycle very easily.	very easily.	n/a	n/a	n/a
+242.217	0.2	242217	255	filler_word	32	34	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Children learn to ride an bicycle very easily.	very easily.	n/a	n/a	n/a
+242.702	0.2	242702	211	control_incorrect	32	34	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Children learn to ride an bicycle very easily.	very easily.	n/a	n/a	n/a
+242.986	0.0	242986	133	item_marker	33	33	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I saw a elephant at the zoo.	at the zoo.	n/a	n/a	n/a
+243.187	0.2	243187	255	filler_word	33	33	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I saw a elephant at the zoo.	at the zoo.	n/a	n/a	n/a
+243.672	0.2	243672	255	filler_word	33	33	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I saw a elephant at the zoo.	at the zoo.	n/a	n/a	n/a
+244.157	0.2	244157	255	filler_word	33	33	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I saw a elephant at the zoo.	at the zoo.	n/a	n/a	n/a
+246.834	0.2	246834	255	filler_word	33	33	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I saw a elephant at the zoo.	at the zoo.	n/a	n/a	n/a
+247.319	0.2	247319	255	filler_word	33	33	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I saw a elephant at the zoo.	at the zoo.	n/a	n/a	n/a
+247.805	0.2	247805	255	filler_word	33	33	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I saw a elephant at the zoo.	at the zoo.	n/a	n/a	n/a
+248.29	0.2	248290	255	filler_word	33	33	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I saw a elephant at the zoo.	at the zoo.	n/a	n/a	n/a
+248.775	0.2	248775	255	filler_word	33	33	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I saw a elephant at the zoo.	at the zoo.	n/a	n/a	n/a
+249.26	0.2	249260	210	control_correct	33	33	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I saw a elephant at the zoo.	at the zoo.	n/a	n/a	n/a
+249.544	0.0	249544	123	item_marker	34	23	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The doctor had  an emergency so he had to leave.	so he had to leave.	n/a	n/a	n/a
+249.745	0.2	249745	255	filler_word	34	23	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The doctor had  an emergency so he had to leave.	so he had to leave.	n/a	n/a	n/a
+250.23	0.2	250230	255	filler_word	34	23	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The doctor had  an emergency so he had to leave.	so he had to leave.	n/a	n/a	n/a
+250.716	0.2	250716	255	filler_word	34	23	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The doctor had  an emergency so he had to leave.	so he had to leave.	n/a	n/a	n/a
+251.201	0.2	251201	255	filler_word	34	23	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The doctor had  an emergency so he had to leave.	so he had to leave.	n/a	n/a	n/a
+261.272	0.2	261272	255	filler_word	34	23	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The doctor had  an emergency so he had to leave.	so he had to leave.	n/a	n/a	n/a
+261.758	0.2	261758	255	filler_word	34	23	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The doctor had  an emergency so he had to leave.	so he had to leave.	n/a	n/a	n/a
+262.243	0.2	262243	255	filler_word	34	23	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The doctor had  an emergency so he had to leave.	so he had to leave.	n/a	n/a	n/a
+262.728	0.2	262728	255	filler_word	34	23	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The doctor had  an emergency so he had to leave.	so he had to leave.	n/a	n/a	n/a
+263.213	0.2	263213	210	control_correct	34	23	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The doctor had  an emergency so he had to leave.	so he had to leave.	n/a	n/a	n/a
+263.498	0.0	263498	132	item_marker	35	32	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I didn't get a message from her.	from her.	n/a	n/a	n/a
+263.698	0.2	263698	255	filler_word	35	32	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I didn't get a message from her.	from her.	n/a	n/a	n/a
+264.184	0.2	264184	255	filler_word	35	32	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I didn't get a message from her.	from her.	n/a	n/a	n/a
+266.626	0.2	266626	255	filler_word	35	32	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I didn't get a message from her.	from her.	n/a	n/a	n/a
+267.111	0.2	267111	255	filler_word	35	32	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I didn't get a message from her.	from her.	n/a	n/a	n/a
+267.597	0.2	267597	255	filler_word	35	32	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I didn't get a message from her.	from her.	n/a	n/a	n/a
+268.082	0.2	268082	255	filler_word	35	32	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I didn't get a message from her.	from her.	n/a	n/a	n/a
+268.567	0.2	268567	255	filler_word	35	32	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I didn't get a message from her.	from her.	n/a	n/a	n/a
+269.052	0.2	269052	211	control_incorrect	35	32	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I didn't get a message from her.	from her.	n/a	n/a	n/a
+269.337	0.0	269337	113	item_marker	36	13	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Lorrie started working as a artist after school.	after school.	n/a	n/a	n/a
+269.537	0.2	269537	255	filler_word	36	13	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Lorrie started working as a artist after school.	after school.	n/a	n/a	n/a
+270.022	0.2	270022	255	filler_word	36	13	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Lorrie started working as a artist after school.	after school.	n/a	n/a	n/a
+272.197	0.2	272197	255	filler_word	36	13	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Lorrie started working as a artist after school.	after school.	n/a	n/a	n/a
+272.683	0.2	272683	255	filler_word	36	13	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Lorrie started working as a artist after school.	after school.	n/a	n/a	n/a
+273.168	0.2	273168	255	filler_word	36	13	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Lorrie started working as a artist after school.	after school.	n/a	n/a	n/a
+273.653	0.2	273653	210	control_correct	36	13	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Lorrie started working as a artist after school.	after school.	n/a	n/a	n/a
+273.937	0.0	273937	111	item_marker	37	11	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	David ordered an octopus as a main dish.	as a main dish.	n/a	n/a	n/a
+274.138	0.2	274138	255	filler_word	37	11	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	David ordered an octopus as a main dish.	as a main dish.	n/a	n/a	n/a
+274.623	0.2	274623	255	filler_word	37	11	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	David ordered an octopus as a main dish.	as a main dish.	n/a	n/a	n/a
+275.108	0.2	275108	255	filler_word	37	11	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	David ordered an octopus as a main dish.	as a main dish.	n/a	n/a	n/a
+275.594	0.2	275594	255	filler_word	37	11	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	David ordered an octopus as a main dish.	as a main dish.	n/a	n/a	n/a
+277.635	0.2	277635	255	filler_word	37	11	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	David ordered an octopus as a main dish.	as a main dish.	n/a	n/a	n/a
+278.12	0.2	278120	255	filler_word	37	11	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	David ordered an octopus as a main dish.	as a main dish.	n/a	n/a	n/a
+278.605	0.2	278605	255	filler_word	37	11	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	David ordered an octopus as a main dish.	as a main dish.	n/a	n/a	n/a
+279.09	0.2	279090	255	filler_word	37	11	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	David ordered an octopus as a main dish.	as a main dish.	n/a	n/a	n/a
+279.559	0.2	279559	210	control_correct	37	11	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	David ordered an octopus as a main dish.	as a main dish.	n/a	n/a	n/a
+279.843	0.0	279843	124	item_marker	38	24	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The neighbours saw a fire in a house.	in a house.	n/a	n/a	n/a
+280.044	0.2	280044	255	filler_word	38	24	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The neighbours saw a fire in a house.	in a house.	n/a	n/a	n/a
+280.529	0.2	280529	255	filler_word	38	24	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The neighbours saw a fire in a house.	in a house.	n/a	n/a	n/a
+281.014	0.2	281014	255	filler_word	38	24	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The neighbours saw a fire in a house.	in a house.	n/a	n/a	n/a
+287.891	0.2	287891	255	filler_word	38	24	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The neighbours saw a fire in a house.	in a house.	n/a	n/a	n/a
+288.376	0.2	288376	255	filler_word	38	24	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The neighbours saw a fire in a house.	in a house.	n/a	n/a	n/a
+288.861	0.2	288861	255	filler_word	38	24	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The neighbours saw a fire in a house.	in a house.	n/a	n/a	n/a
+289.346	0.2	289346	255	filler_word	38	24	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The neighbours saw a fire in a house.	in a house.	n/a	n/a	n/a
+289.831	0.2	289831	255	filler_word	38	24	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The neighbours saw a fire in a house.	in a house.	n/a	n/a	n/a
+290.316	0.2	290316	255	filler_word	38	24	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The neighbours saw a fire in a house.	in a house.	n/a	n/a	n/a
+290.802	0.2	290802	211	control_incorrect	38	24	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The neighbours saw a fire in a house.	in a house.	n/a	n/a	n/a
+291.086	0.0	291086	114	item_marker	39	14	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He was happy to have an student like her.	like her.	n/a	n/a	n/a
+291.287	0.2	291287	255	filler_word	39	14	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He was happy to have an student like her.	like her.	n/a	n/a	n/a
+291.772	0.2	291772	255	filler_word	39	14	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He was happy to have an student like her.	like her.	n/a	n/a	n/a
+310.175	0.2	310175	255	filler_word	39	14	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He was happy to have an student like her.	like her.	n/a	n/a	n/a
+310.661	0.2	310661	255	filler_word	39	14	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He was happy to have an student like her.	like her.	n/a	n/a	n/a
+311.146	0.2	311146	255	filler_word	39	14	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He was happy to have an student like her.	like her.	n/a	n/a	n/a
+311.631	0.2	311631	255	filler_word	39	14	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He was happy to have an student like her.	like her.	n/a	n/a	n/a
+312.116	0.2	312116	210	control_correct	39	14	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He was happy to have an student like her.	like her.	n/a	n/a	n/a
+312.401	0.0	312401	159	item_marker	40	59	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Sophie lives near an airport because of her work.	because of her work.	n/a	n/a	n/a
+312.601	0.2	312601	255	filler_word	40	59	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Sophie lives near an airport because of her work.	because of her work.	n/a	n/a	n/a
+313.086	0.2	313086	255	filler_word	40	59	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Sophie lives near an airport because of her work.	because of her work.	n/a	n/a	n/a
+313.572	0.2	313572	255	filler_word	40	59	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Sophie lives near an airport because of her work.	because of her work.	n/a	n/a	n/a
+314.057	0.2	314057	255	filler_word	40	59	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Sophie lives near an airport because of her work.	because of her work.	n/a	n/a	n/a
+316.165	0.2	316165	255	filler_word	40	59	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Sophie lives near an airport because of her work.	because of her work.	n/a	n/a	n/a
+316.65	0.2	316650	255	filler_word	40	59	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Sophie lives near an airport because of her work.	because of her work.	n/a	n/a	n/a
+317.135	0.2	317135	255	filler_word	40	59	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Sophie lives near an airport because of her work.	because of her work.	n/a	n/a	n/a
+317.62	0.2	317620	255	filler_word	40	59	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Sophie lives near an airport because of her work.	because of her work.	n/a	n/a	n/a
+318.106	0.2	318106	211	control_incorrect	40	59	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Sophie lives near an airport because of her work.	because of her work.	n/a	n/a	n/a
+318.39	0.0	318390	149	item_marker	41	49	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Whenever I slice a onion I always cry.	I always cry.	n/a	n/a	n/a
+318.591	0.2	318591	255	filler_word	41	49	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Whenever I slice a onion I always cry.	I always cry.	n/a	n/a	n/a
+319.076	0.2	319076	255	filler_word	41	49	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Whenever I slice a onion I always cry.	I always cry.	n/a	n/a	n/a
+319.561	0.2	319561	255	filler_word	41	49	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Whenever I slice a onion I always cry.	I always cry.	n/a	n/a	n/a
+321.903	0.2	321903	255	filler_word	41	49	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Whenever I slice a onion I always cry.	I always cry.	n/a	n/a	n/a
+322.389	0.2	322389	255	filler_word	41	49	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Whenever I slice a onion I always cry.	I always cry.	n/a	n/a	n/a
+322.874	0.2	322874	255	filler_word	41	49	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Whenever I slice a onion I always cry.	I always cry.	n/a	n/a	n/a
+323.359	0.2	323359	255	filler_word	41	49	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Whenever I slice a onion I always cry.	I always cry.	n/a	n/a	n/a
+323.844	0.2	323844	255	filler_word	41	49	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Whenever I slice a onion I always cry.	I always cry.	n/a	n/a	n/a
+324.329	0.2	324329	210	control_correct	41	49	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Whenever I slice a onion I always cry.	I always cry.	n/a	n/a	n/a
+324.614	0.0	324614	160	item_marker	42	60	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Anthony was born in a city but he prefers the countryside.	but he prefers the countryside.	n/a	n/a	n/a
+324.814	0.2	324814	255	filler_word	42	60	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Anthony was born in a city but he prefers the countryside.	but he prefers the countryside.	n/a	n/a	n/a
+325.3	0.2	325300	255	filler_word	42	60	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Anthony was born in a city but he prefers the countryside.	but he prefers the countryside.	n/a	n/a	n/a
+325.785	0.2	325785	255	filler_word	42	60	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Anthony was born in a city but he prefers the countryside.	but he prefers the countryside.	n/a	n/a	n/a
+326.27	0.2	326270	255	filler_word	42	60	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Anthony was born in a city but he prefers the countryside.	but he prefers the countryside.	n/a	n/a	n/a
+326.755	0.2	326755	255	filler_word	42	60	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Anthony was born in a city but he prefers the countryside.	but he prefers the countryside.	n/a	n/a	n/a
+328.763	0.2	328763	255	filler_word	42	60	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Anthony was born in a city but he prefers the countryside.	but he prefers the countryside.	n/a	n/a	n/a
+329.248	0.2	329248	255	filler_word	42	60	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Anthony was born in a city but he prefers the countryside.	but he prefers the countryside.	n/a	n/a	n/a
+329.733	0.2	329733	255	filler_word	42	60	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Anthony was born in a city but he prefers the countryside.	but he prefers the countryside.	n/a	n/a	n/a
+330.218	0.2	330218	255	filler_word	42	60	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Anthony was born in a city but he prefers the countryside.	but he prefers the countryside.	n/a	n/a	n/a
+330.704	0.2	330704	211	control_incorrect	42	60	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Anthony was born in a city but he prefers the countryside.	but he prefers the countryside.	n/a	n/a	n/a
+330.988	0.0	330988	174	item_marker	43	74	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He gave her an flower to apologize.	to apologize.	n/a	n/a	n/a
+331.189	0.2	331189	255	filler_word	43	74	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He gave her an flower to apologize.	to apologize.	n/a	n/a	n/a
+331.674	0.2	331674	255	filler_word	43	74	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He gave her an flower to apologize.	to apologize.	n/a	n/a	n/a
+333.748	0.2	333748	255	filler_word	43	74	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He gave her an flower to apologize.	to apologize.	n/a	n/a	n/a
+334.234	0.2	334234	255	filler_word	43	74	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He gave her an flower to apologize.	to apologize.	n/a	n/a	n/a
+334.719	0.2	334719	255	filler_word	43	74	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He gave her an flower to apologize.	to apologize.	n/a	n/a	n/a
+335.204	0.2	335204	255	filler_word	43	74	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He gave her an flower to apologize.	to apologize.	n/a	n/a	n/a
+335.689	0.2	335689	210	control_correct	43	74	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He gave her an flower to apologize.	to apologize.	n/a	n/a	n/a
+335.974	0.0	335974	148	item_marker	44	48	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Sam told me a story about his wife.	about his wife.	n/a	n/a	n/a
+336.174	0.2	336174	255	filler_word	44	48	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Sam told me a story about his wife.	about his wife.	n/a	n/a	n/a
+336.66	0.2	336660	255	filler_word	44	48	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Sam told me a story about his wife.	about his wife.	n/a	n/a	n/a
+337.145	0.2	337145	255	filler_word	44	48	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Sam told me a story about his wife.	about his wife.	n/a	n/a	n/a
+339.203	0.2	339203	255	filler_word	44	48	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Sam told me a story about his wife.	about his wife.	n/a	n/a	n/a
+339.688	0.2	339688	255	filler_word	44	48	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Sam told me a story about his wife.	about his wife.	n/a	n/a	n/a
+340.173	0.2	340173	255	filler_word	44	48	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Sam told me a story about his wife.	about his wife.	n/a	n/a	n/a
+340.658	0.2	340658	211	control_incorrect	44	48	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Sam told me a story about his wife.	about his wife.	n/a	n/a	n/a
+340.943	0.0	340943	177	item_marker	45	77	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You need a egg for this recipe.	for this recipe.	n/a	n/a	n/a
+341.143	0.2	341143	255	filler_word	45	77	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You need a egg for this recipe.	for this recipe.	n/a	n/a	n/a
+341.628	0.2	341628	255	filler_word	45	77	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You need a egg for this recipe.	for this recipe.	n/a	n/a	n/a
+342.114	0.2	342114	255	filler_word	45	77	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You need a egg for this recipe.	for this recipe.	n/a	n/a	n/a
+344.289	0.2	344289	255	filler_word	45	77	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You need a egg for this recipe.	for this recipe.	n/a	n/a	n/a
+344.774	0.2	344774	255	filler_word	45	77	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You need a egg for this recipe.	for this recipe.	n/a	n/a	n/a
+345.259	0.2	345259	255	filler_word	45	77	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You need a egg for this recipe.	for this recipe.	n/a	n/a	n/a
+345.744	0.2	345744	255	filler_word	45	77	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You need a egg for this recipe.	for this recipe.	n/a	n/a	n/a
+346.229	0.2	346229	211	control_incorrect	45	77	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You need a egg for this recipe.	for this recipe.	n/a	n/a	n/a
+346.514	0.0	346514	157	item_marker	46	57	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Jake always uses a escalator because he is lazy.	because he is lazy.	n/a	n/a	n/a
+346.715	0.2	346715	255	filler_word	46	57	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Jake always uses a escalator because he is lazy.	because he is lazy.	n/a	n/a	n/a
+347.2	0.2	347200	255	filler_word	46	57	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Jake always uses a escalator because he is lazy.	because he is lazy.	n/a	n/a	n/a
+347.685	0.2	347685	255	filler_word	46	57	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Jake always uses a escalator because he is lazy.	because he is lazy.	n/a	n/a	n/a
+348.17	0.2	348170	255	filler_word	46	57	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Jake always uses a escalator because he is lazy.	because he is lazy.	n/a	n/a	n/a
+350.328	0.2	350328	255	filler_word	46	57	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Jake always uses a escalator because he is lazy.	because he is lazy.	n/a	n/a	n/a
+350.813	0.2	350813	255	filler_word	46	57	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Jake always uses a escalator because he is lazy.	because he is lazy.	n/a	n/a	n/a
+351.299	0.2	351299	255	filler_word	46	57	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Jake always uses a escalator because he is lazy.	because he is lazy.	n/a	n/a	n/a
+351.784	0.2	351784	211	control_incorrect	46	57	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Jake always uses a escalator because he is lazy.	because he is lazy.	n/a	n/a	n/a
+352.068	0.0	352068	178	item_marker	47	78	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	There is an window in the bathroom now.	in the bathroom now.	n/a	n/a	n/a
+352.269	0.2	352269	255	filler_word	47	78	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	There is an window in the bathroom now.	in the bathroom now.	n/a	n/a	n/a
+352.754	0.2	352754	255	filler_word	47	78	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	There is an window in the bathroom now.	in the bathroom now.	n/a	n/a	n/a
+353.239	0.2	353239	255	filler_word	47	78	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	There is an window in the bathroom now.	in the bathroom now.	n/a	n/a	n/a
+353.725	0.2	353725	255	filler_word	47	78	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	There is an window in the bathroom now.	in the bathroom now.	n/a	n/a	n/a
+355.866	0.2	355866	255	filler_word	47	78	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	There is an window in the bathroom now.	in the bathroom now.	n/a	n/a	n/a
+356.351	0.2	356351	255	filler_word	47	78	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	There is an window in the bathroom now.	in the bathroom now.	n/a	n/a	n/a
+356.836	0.2	356836	255	filler_word	47	78	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	There is an window in the bathroom now.	in the bathroom now.	n/a	n/a	n/a
+357.322	0.2	357322	255	filler_word	47	78	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	There is an window in the bathroom now.	in the bathroom now.	n/a	n/a	n/a
+357.807	0.2	357807	210	control_correct	47	78	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	There is an window in the bathroom now.	in the bathroom now.	n/a	n/a	n/a
+358.091	0.0	358091	152	item_marker	48	52	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The event was a success on the whole.	on the whole.	n/a	n/a	n/a
+358.292	0.2	358292	255	filler_word	48	52	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The event was a success on the whole.	on the whole.	n/a	n/a	n/a
+358.777	0.2	358777	255	filler_word	48	52	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The event was a success on the whole.	on the whole.	n/a	n/a	n/a
+359.262	0.2	359262	255	filler_word	48	52	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The event was a success on the whole.	on the whole.	n/a	n/a	n/a
+361.404	0.2	361404	255	filler_word	48	52	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The event was a success on the whole.	on the whole.	n/a	n/a	n/a
+361.889	0.2	361889	255	filler_word	48	52	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The event was a success on the whole.	on the whole.	n/a	n/a	n/a
+362.374	0.2	362374	255	filler_word	48	52	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The event was a success on the whole.	on the whole.	n/a	n/a	n/a
+362.859	0.2	362859	210	control_correct	48	52	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The event was a success on the whole.	on the whole.	n/a	n/a	n/a
+363.144	0.0	363144	176	item_marker	49	76	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Acid is a liquid that dissolves things.	that dissolves things.	n/a	n/a	n/a
+363.345	0.2	363345	255	filler_word	49	76	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Acid is a liquid that dissolves things.	that dissolves things.	n/a	n/a	n/a
+363.83	0.2	363830	255	filler_word	49	76	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Acid is a liquid that dissolves things.	that dissolves things.	n/a	n/a	n/a
+364.315	0.2	364315	255	filler_word	49	76	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Acid is a liquid that dissolves things.	that dissolves things.	n/a	n/a	n/a
+366.707	0.2	366707	255	filler_word	49	76	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Acid is a liquid that dissolves things.	that dissolves things.	n/a	n/a	n/a
+367.193	0.2	367193	255	filler_word	49	76	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Acid is a liquid that dissolves things.	that dissolves things.	n/a	n/a	n/a
+367.678	0.2	367678	255	filler_word	49	76	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Acid is a liquid that dissolves things.	that dissolves things.	n/a	n/a	n/a
+368.163	0.2	368163	255	filler_word	49	76	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Acid is a liquid that dissolves things.	that dissolves things.	n/a	n/a	n/a
+368.648	0.2	368648	210	control_correct	49	76	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Acid is a liquid that dissolves things.	that dissolves things.	n/a	n/a	n/a
+368.932	0.0	368932	179	item_marker	50	79	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He looked like an alien when he was born.	when he was born.	n/a	n/a	n/a
+369.133	0.2	369133	255	filler_word	50	79	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He looked like an alien when he was born.	when he was born.	n/a	n/a	n/a
+369.618	0.2	369618	255	filler_word	50	79	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He looked like an alien when he was born.	when he was born.	n/a	n/a	n/a
+370.104	0.2	370104	255	filler_word	50	79	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He looked like an alien when he was born.	when he was born.	n/a	n/a	n/a
+370.589	0.2	370589	255	filler_word	50	79	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He looked like an alien when he was born.	when he was born.	n/a	n/a	n/a
+372.58	0.2	372580	255	filler_word	50	79	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He looked like an alien when he was born.	when he was born.	n/a	n/a	n/a
+373.065	0.2	373065	255	filler_word	50	79	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He looked like an alien when he was born.	when he was born.	n/a	n/a	n/a
+373.55	0.2	373550	255	filler_word	50	79	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He looked like an alien when he was born.	when he was born.	n/a	n/a	n/a
+374.035	0.2	374035	255	filler_word	50	79	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He looked like an alien when he was born.	when he was born.	n/a	n/a	n/a
+374.52	0.2	374520	255	filler_word	50	79	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He looked like an alien when he was born.	when he was born.	n/a	n/a	n/a
+375.006	0.2	375006	210	control_correct	50	79	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He looked like an alien when he was born.	when he was born.	n/a	n/a	n/a
+375.29	0.0	375290	167	item_marker	51	67	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The old wizard uses an owl to send letters.	to send letters.	n/a	n/a	n/a
+375.491	0.2	375491	255	filler_word	51	67	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The old wizard uses an owl to send letters.	to send letters.	n/a	n/a	n/a
+375.976	0.2	375976	255	filler_word	51	67	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The old wizard uses an owl to send letters.	to send letters.	n/a	n/a	n/a
+376.461	0.2	376461	255	filler_word	51	67	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The old wizard uses an owl to send letters.	to send letters.	n/a	n/a	n/a
+384.843	0.2	384843	255	filler_word	51	67	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The old wizard uses an owl to send letters.	to send letters.	n/a	n/a	n/a
+385.328	0.2	385328	255	filler_word	51	67	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The old wizard uses an owl to send letters.	to send letters.	n/a	n/a	n/a
+385.813	0.2	385813	255	filler_word	51	67	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The old wizard uses an owl to send letters.	to send letters.	n/a	n/a	n/a
+386.299	0.2	386299	255	filler_word	51	67	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The old wizard uses an owl to send letters.	to send letters.	n/a	n/a	n/a
+386.784	0.2	386784	255	filler_word	51	67	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The old wizard uses an owl to send letters.	to send letters.	n/a	n/a	n/a
+387.269	0.2	387269	255	filler_word	51	67	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The old wizard uses an owl to send letters.	to send letters.	n/a	n/a	n/a
+387.754	0.2	387754	211	control_incorrect	51	67	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The old wizard uses an owl to send letters.	to send letters.	n/a	n/a	n/a
+388.039	0.0	388039	158	item_marker	52	58	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Bob left the hospital in an wheelchair after his operation.	after his operation.	n/a	n/a	n/a
+388.239	0.2	388239	255	filler_word	52	58	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Bob left the hospital in an wheelchair after his operation.	after his operation.	n/a	n/a	n/a
+388.724	0.2	388724	255	filler_word	52	58	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Bob left the hospital in an wheelchair after his operation.	after his operation.	n/a	n/a	n/a
+389.21	0.2	389210	255	filler_word	52	58	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Bob left the hospital in an wheelchair after his operation.	after his operation.	n/a	n/a	n/a
+393.158	0.2	393158	255	filler_word	52	58	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Bob left the hospital in an wheelchair after his operation.	after his operation.	n/a	n/a	n/a
+393.643	0.2	393643	255	filler_word	52	58	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Bob left the hospital in an wheelchair after his operation.	after his operation.	n/a	n/a	n/a
+394.128	0.2	394128	255	filler_word	52	58	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Bob left the hospital in an wheelchair after his operation.	after his operation.	n/a	n/a	n/a
+394.614	0.2	394614	210	control_correct	52	58	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Bob left the hospital in an wheelchair after his operation.	after his operation.	n/a	n/a	n/a
+394.898	0.0	394898	143	item_marker	53	43	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I bought a stamp for the postcards.	for the postcards.	n/a	n/a	n/a
+395.099	0.2	395099	255	filler_word	53	43	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I bought a stamp for the postcards.	for the postcards.	n/a	n/a	n/a
+395.584	0.2	395584	255	filler_word	53	43	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I bought a stamp for the postcards.	for the postcards.	n/a	n/a	n/a
+396.069	0.2	396069	255	filler_word	53	43	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I bought a stamp for the postcards.	for the postcards.	n/a	n/a	n/a
+398.411	0.2	398411	255	filler_word	53	43	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I bought a stamp for the postcards.	for the postcards.	n/a	n/a	n/a
+398.897	0.2	398897	255	filler_word	53	43	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I bought a stamp for the postcards.	for the postcards.	n/a	n/a	n/a
+399.382	0.2	399382	255	filler_word	53	43	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I bought a stamp for the postcards.	for the postcards.	n/a	n/a	n/a
+399.867	0.2	399867	255	filler_word	53	43	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I bought a stamp for the postcards.	for the postcards.	n/a	n/a	n/a
+400.352	0.2	400352	255	filler_word	53	43	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I bought a stamp for the postcards.	for the postcards.	n/a	n/a	n/a
+400.837	0.2	400837	211	control_incorrect	53	43	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I bought a stamp for the postcards.	for the postcards.	n/a	n/a	n/a
+401.122	0.0	401122	153	item_marker	54	53	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He became famous as a actor after his first movie.	after his first movie.	n/a	n/a	n/a
+401.322	0.2	401322	255	filler_word	54	53	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He became famous as a actor after his first movie.	after his first movie.	n/a	n/a	n/a
+401.808	0.2	401808	255	filler_word	54	53	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He became famous as a actor after his first movie.	after his first movie.	n/a	n/a	n/a
+402.293	0.2	402293	255	filler_word	54	53	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He became famous as a actor after his first movie.	after his first movie.	n/a	n/a	n/a
+402.778	0.2	402778	255	filler_word	54	53	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He became famous as a actor after his first movie.	after his first movie.	n/a	n/a	n/a
+409.487	0.2	409487	255	filler_word	54	53	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He became famous as a actor after his first movie.	after his first movie.	n/a	n/a	n/a
+409.972	0.2	409972	255	filler_word	54	53	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He became famous as a actor after his first movie.	after his first movie.	n/a	n/a	n/a
+410.457	0.2	410457	255	filler_word	54	53	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He became famous as a actor after his first movie.	after his first movie.	n/a	n/a	n/a
+410.942	0.2	410942	255	filler_word	54	53	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He became famous as a actor after his first movie.	after his first movie.	n/a	n/a	n/a
+411.428	0.2	411428	255	filler_word	54	53	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He became famous as a actor after his first movie.	after his first movie.	n/a	n/a	n/a
+411.913	0.2	411913	255	filler_word	54	53	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He became famous as a actor after his first movie.	after his first movie.	n/a	n/a	n/a
+412.398	0.2	412398	211	control_incorrect	54	53	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He became famous as a actor after his first movie.	after his first movie.	n/a	n/a	n/a
+412.682	0.0	412682	170	item_marker	55	70	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	In the desert, we saw an mirage after walking for hours.	after walking for hours.	n/a	n/a	n/a
+412.883	0.2	412883	255	filler_word	55	70	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	In the desert, we saw an mirage after walking for hours.	after walking for hours.	n/a	n/a	n/a
+413.368	0.2	413368	255	filler_word	55	70	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	In the desert, we saw an mirage after walking for hours.	after walking for hours.	n/a	n/a	n/a
+413.854	0.2	413854	255	filler_word	55	70	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	In the desert, we saw an mirage after walking for hours.	after walking for hours.	n/a	n/a	n/a
+414.339	0.2	414339	255	filler_word	55	70	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	In the desert, we saw an mirage after walking for hours.	after walking for hours.	n/a	n/a	n/a
+416.363	0.2	416363	255	filler_word	55	70	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	In the desert, we saw an mirage after walking for hours.	after walking for hours.	n/a	n/a	n/a
+416.848	0.2	416848	255	filler_word	55	70	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	In the desert, we saw an mirage after walking for hours.	after walking for hours.	n/a	n/a	n/a
+417.333	0.2	417333	255	filler_word	55	70	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	In the desert, we saw an mirage after walking for hours.	after walking for hours.	n/a	n/a	n/a
+417.819	0.2	417819	255	filler_word	55	70	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	In the desert, we saw an mirage after walking for hours.	after walking for hours.	n/a	n/a	n/a
+418.304	0.2	418304	211	control_incorrect	55	70	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	In the desert, we saw an mirage after walking for hours.	after walking for hours.	n/a	n/a	n/a
+418.588	0.0	418588	165	item_marker	56	65	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He could buy a island he is so rich.	he is so rich.	n/a	n/a	n/a
+418.789	0.2	418789	255	filler_word	56	65	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He could buy a island he is so rich.	he is so rich.	n/a	n/a	n/a
+419.274	0.2	419274	255	filler_word	56	65	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He could buy a island he is so rich.	he is so rich.	n/a	n/a	n/a
+419.759	0.2	419759	255	filler_word	56	65	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He could buy a island he is so rich.	he is so rich.	n/a	n/a	n/a
+420.245	0.2	420245	255	filler_word	56	65	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He could buy a island he is so rich.	he is so rich.	n/a	n/a	n/a
+422.553	0.2	422553	255	filler_word	56	65	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He could buy a island he is so rich.	he is so rich.	n/a	n/a	n/a
+423.039	0.2	423039	255	filler_word	56	65	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He could buy a island he is so rich.	he is so rich.	n/a	n/a	n/a
+423.524	0.2	423524	255	filler_word	56	65	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He could buy a island he is so rich.	he is so rich.	n/a	n/a	n/a
+424.009	0.2	424009	210	control_correct	56	65	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He could buy a island he is so rich.	he is so rich.	n/a	n/a	n/a
+424.293	0.0	424293	175	item_marker	57	75	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Iron is an element on the periodic table.	on the periodic table.	n/a	n/a	n/a
+424.494	0.2	424494	255	filler_word	57	75	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Iron is an element on the periodic table.	on the periodic table.	n/a	n/a	n/a
+424.979	0.2	424979	255	filler_word	57	75	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Iron is an element on the periodic table.	on the periodic table.	n/a	n/a	n/a
+425.464	0.2	425464	255	filler_word	57	75	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Iron is an element on the periodic table.	on the periodic table.	n/a	n/a	n/a
+425.95	0.2	425950	255	filler_word	57	75	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Iron is an element on the periodic table.	on the periodic table.	n/a	n/a	n/a
+433.712	0.2	433712	255	filler_word	57	75	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Iron is an element on the periodic table.	on the periodic table.	n/a	n/a	n/a
+434.198	0.2	434198	255	filler_word	57	75	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Iron is an element on the periodic table.	on the periodic table.	n/a	n/a	n/a
+434.683	0.2	434683	255	filler_word	57	75	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Iron is an element on the periodic table.	on the periodic table.	n/a	n/a	n/a
+435.168	0.2	435168	255	filler_word	57	75	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Iron is an element on the periodic table.	on the periodic table.	n/a	n/a	n/a
+435.653	0.2	435653	211	control_incorrect	57	75	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Iron is an element on the periodic table.	on the periodic table.	n/a	n/a	n/a
+435.938	0.0	435938	161	item_marker	58	61	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The footballer got a offense after kicking another player.	after kicking another player.	n/a	n/a	n/a
+436.138	0.2	436138	255	filler_word	58	61	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The footballer got a offense after kicking another player.	after kicking another player.	n/a	n/a	n/a
+436.624	0.2	436624	255	filler_word	58	61	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The footballer got a offense after kicking another player.	after kicking another player.	n/a	n/a	n/a
+437.109	0.2	437109	255	filler_word	58	61	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The footballer got a offense after kicking another player.	after kicking another player.	n/a	n/a	n/a
+437.594	0.2	437594	255	filler_word	58	61	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The footballer got a offense after kicking another player.	after kicking another player.	n/a	n/a	n/a
+440.789	0.2	440789	255	filler_word	58	61	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The footballer got a offense after kicking another player.	after kicking another player.	n/a	n/a	n/a
+441.275	0.2	441275	255	filler_word	58	61	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The footballer got a offense after kicking another player.	after kicking another player.	n/a	n/a	n/a
+441.76	0.2	441760	255	filler_word	58	61	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The footballer got a offense after kicking another player.	after kicking another player.	n/a	n/a	n/a
+442.245	0.2	442245	210	control_correct	58	61	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The footballer got a offense after kicking another player.	after kicking another player.	n/a	n/a	n/a
+442.529	0.0	442529	168	item_marker	59	68	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Mary has a cat who leaves hair everywhere.	who leaves hair everywhere.	n/a	n/a	n/a
+442.73	0.2	442730	255	filler_word	59	68	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Mary has a cat who leaves hair everywhere.	who leaves hair everywhere.	n/a	n/a	n/a
+443.215	0.2	443215	255	filler_word	59	68	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Mary has a cat who leaves hair everywhere.	who leaves hair everywhere.	n/a	n/a	n/a
+443.701	0.2	443701	255	filler_word	59	68	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Mary has a cat who leaves hair everywhere.	who leaves hair everywhere.	n/a	n/a	n/a
+444.186	0.2	444186	255	filler_word	59	68	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Mary has a cat who leaves hair everywhere.	who leaves hair everywhere.	n/a	n/a	n/a
+446.327	0.2	446327	255	filler_word	59	68	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Mary has a cat who leaves hair everywhere.	who leaves hair everywhere.	n/a	n/a	n/a
+446.812	0.2	446812	255	filler_word	59	68	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Mary has a cat who leaves hair everywhere.	who leaves hair everywhere.	n/a	n/a	n/a
+447.298	0.2	447298	255	filler_word	59	68	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Mary has a cat who leaves hair everywhere.	who leaves hair everywhere.	n/a	n/a	n/a
+447.783	0.2	447783	210	control_correct	59	68	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Mary has a cat who leaves hair everywhere.	who leaves hair everywhere.	n/a	n/a	n/a
+448.067	0.0	448067	163	item_marker	60	63	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Tom has an idea for his new project.	for his new project.	n/a	n/a	n/a
+448.268	0.2	448268	255	filler_word	60	63	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Tom has an idea for his new project.	for his new project.	n/a	n/a	n/a
+448.753	0.2	448753	255	filler_word	60	63	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Tom has an idea for his new project.	for his new project.	n/a	n/a	n/a
+449.238	0.2	449238	255	filler_word	60	63	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Tom has an idea for his new project.	for his new project.	n/a	n/a	n/a
+449.723	0.2	449723	255	filler_word	60	63	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Tom has an idea for his new project.	for his new project.	n/a	n/a	n/a
+451.865	0.2	451865	255	filler_word	60	63	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Tom has an idea for his new project.	for his new project.	n/a	n/a	n/a
+452.35	0.2	452350	255	filler_word	60	63	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Tom has an idea for his new project.	for his new project.	n/a	n/a	n/a
+452.835	0.2	452835	255	filler_word	60	63	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Tom has an idea for his new project.	for his new project.	n/a	n/a	n/a
+453.32	0.2	453320	255	filler_word	60	63	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Tom has an idea for his new project.	for his new project.	n/a	n/a	n/a
+453.806	0.2	453806	255	filler_word	60	63	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Tom has an idea for his new project.	for his new project.	n/a	n/a	n/a
+454.291	0.2	454291	210	control_correct	60	63	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Tom has an idea for his new project.	for his new project.	n/a	n/a	n/a
+454.575	0.0	454575	164	item_marker	61	64	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The newborn didn't have a name but now he's called George.	but now he's called George.	n/a	n/a	n/a
+454.776	0.2	454776	255	filler_word	61	64	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The newborn didn't have a name but now he's called George.	but now he's called George.	n/a	n/a	n/a
+455.261	0.2	455261	255	filler_word	61	64	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The newborn didn't have a name but now he's called George.	but now he's called George.	n/a	n/a	n/a
+455.746	0.2	455746	255	filler_word	61	64	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The newborn didn't have a name but now he's called George.	but now he's called George.	n/a	n/a	n/a
+456.232	0.2	456232	255	filler_word	61	64	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The newborn didn't have a name but now he's called George.	but now he's called George.	n/a	n/a	n/a
+456.717	0.2	456717	255	filler_word	61	64	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The newborn didn't have a name but now he's called George.	but now he's called George.	n/a	n/a	n/a
+458.741	0.2	458741	255	filler_word	61	64	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The newborn didn't have a name but now he's called George.	but now he's called George.	n/a	n/a	n/a
+459.226	0.2	459226	255	filler_word	61	64	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The newborn didn't have a name but now he's called George.	but now he's called George.	n/a	n/a	n/a
+459.711	0.2	459711	255	filler_word	61	64	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The newborn didn't have a name but now he's called George.	but now he's called George.	n/a	n/a	n/a
+460.197	0.2	460197	255	filler_word	61	64	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The newborn didn't have a name but now he's called George.	but now he's called George.	n/a	n/a	n/a
+460.682	0.2	460682	210	control_correct	61	64	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The newborn didn't have a name but now he's called George.	but now he's called George.	n/a	n/a	n/a
+460.966	0.0	460966	155	item_marker	62	55	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The magician needed an audience to perform his tricks.	to perform his tricks.	n/a	n/a	n/a
+461.167	0.2	461167	255	filler_word	62	55	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The magician needed an audience to perform his tricks.	to perform his tricks.	n/a	n/a	n/a
+461.652	0.2	461652	255	filler_word	62	55	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The magician needed an audience to perform his tricks.	to perform his tricks.	n/a	n/a	n/a
+462.137	0.2	462137	255	filler_word	62	55	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The magician needed an audience to perform his tricks.	to perform his tricks.	n/a	n/a	n/a
+462.623	0.2	462623	255	filler_word	62	55	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The magician needed an audience to perform his tricks.	to perform his tricks.	n/a	n/a	n/a
+464.613	0.2	464613	255	filler_word	62	55	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The magician needed an audience to perform his tricks.	to perform his tricks.	n/a	n/a	n/a
+465.099	0.2	465099	255	filler_word	62	55	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The magician needed an audience to perform his tricks.	to perform his tricks.	n/a	n/a	n/a
+465.584	0.2	465584	255	filler_word	62	55	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The magician needed an audience to perform his tricks.	to perform his tricks.	n/a	n/a	n/a
+466.069	0.2	466069	255	filler_word	62	55	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The magician needed an audience to perform his tricks.	to perform his tricks.	n/a	n/a	n/a
+466.554	0.2	466554	210	control_correct	62	55	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The magician needed an audience to perform his tricks.	to perform his tricks.	n/a	n/a	n/a
+466.839	0.0	466839	180	item_marker	63	80	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	John felt like a tourist with his camera.	with his camera.	n/a	n/a	n/a
+467.039	0.2	467039	255	filler_word	63	80	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	John felt like a tourist with his camera.	with his camera.	n/a	n/a	n/a
+467.525	0.2	467525	255	filler_word	63	80	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	John felt like a tourist with his camera.	with his camera.	n/a	n/a	n/a
+468.01	0.2	468010	255	filler_word	63	80	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	John felt like a tourist with his camera.	with his camera.	n/a	n/a	n/a
+470.017	0.2	470017	255	filler_word	63	80	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	John felt like a tourist with his camera.	with his camera.	n/a	n/a	n/a
+470.503	0.2	470503	255	filler_word	63	80	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	John felt like a tourist with his camera.	with his camera.	n/a	n/a	n/a
+470.988	0.2	470988	255	filler_word	63	80	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	John felt like a tourist with his camera.	with his camera.	n/a	n/a	n/a
+471.473	0.2	471473	210	control_correct	63	80	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	John felt like a tourist with his camera.	with his camera.	n/a	n/a	n/a
+471.757	0.0	471757	151	item_marker	64	51	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He was an author in the 18th century.	in the 18th century.	n/a	n/a	n/a
+471.958	0.2	471958	255	filler_word	64	51	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He was an author in the 18th century.	in the 18th century.	n/a	n/a	n/a
+472.443	0.2	472443	255	filler_word	64	51	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He was an author in the 18th century.	in the 18th century.	n/a	n/a	n/a
+472.928	0.2	472928	255	filler_word	64	51	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He was an author in the 18th century.	in the 18th century.	n/a	n/a	n/a
+473.414	0.2	473414	255	filler_word	64	51	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He was an author in the 18th century.	in the 18th century.	n/a	n/a	n/a
+475.17	0.2	475170	255	filler_word	64	51	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He was an author in the 18th century.	in the 18th century.	n/a	n/a	n/a
+475.656	0.2	475656	255	filler_word	64	51	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He was an author in the 18th century.	in the 18th century.	n/a	n/a	n/a
+476.141	0.2	476141	255	filler_word	64	51	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He was an author in the 18th century.	in the 18th century.	n/a	n/a	n/a
+476.626	0.2	476626	211	control_incorrect	64	51	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He was an author in the 18th century.	in the 18th century.	n/a	n/a	n/a
+476.91	0.0	476910	166	item_marker	65	66	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You need an ship to get to his private island.	to get to his private island.	n/a	n/a	n/a
+477.111	0.2	477111	255	filler_word	65	66	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You need an ship to get to his private island.	to get to his private island.	n/a	n/a	n/a
+477.596	0.2	477596	255	filler_word	65	66	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You need an ship to get to his private island.	to get to his private island.	n/a	n/a	n/a
+478.081	0.2	478081	255	filler_word	65	66	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You need an ship to get to his private island.	to get to his private island.	n/a	n/a	n/a
+478.567	0.2	478567	255	filler_word	65	66	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You need an ship to get to his private island.	to get to his private island.	n/a	n/a	n/a
+479.052	0.2	479052	255	filler_word	65	66	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You need an ship to get to his private island.	to get to his private island.	n/a	n/a	n/a
+479.537	0.2	479537	255	filler_word	65	66	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You need an ship to get to his private island.	to get to his private island.	n/a	n/a	n/a
+481.595	0.2	481595	255	filler_word	65	66	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You need an ship to get to his private island.	to get to his private island.	n/a	n/a	n/a
+482.08	0.2	482080	255	filler_word	65	66	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You need an ship to get to his private island.	to get to his private island.	n/a	n/a	n/a
+482.565	0.2	482565	255	filler_word	65	66	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You need an ship to get to his private island.	to get to his private island.	n/a	n/a	n/a
+483.05	0.2	483050	210	control_correct	65	66	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	You need an ship to get to his private island.	to get to his private island.	n/a	n/a	n/a
+483.335	0.0	483335	147	item_marker	66	47	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I found an excuse not to go to there.	not to go to there.	n/a	n/a	n/a
+483.536	0.2	483536	255	filler_word	66	47	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I found an excuse not to go to there.	not to go to there.	n/a	n/a	n/a
+484.021	0.2	484021	255	filler_word	66	47	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I found an excuse not to go to there.	not to go to there.	n/a	n/a	n/a
+484.506	0.2	484506	255	filler_word	66	47	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I found an excuse not to go to there.	not to go to there.	n/a	n/a	n/a
+484.991	0.2	484991	255	filler_word	66	47	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I found an excuse not to go to there.	not to go to there.	n/a	n/a	n/a
+485.476	0.2	485476	255	filler_word	66	47	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I found an excuse not to go to there.	not to go to there.	n/a	n/a	n/a
+489.86	0.2	489860	255	filler_word	66	47	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I found an excuse not to go to there.	not to go to there.	n/a	n/a	n/a
+490.345	0.2	490345	255	filler_word	66	47	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I found an excuse not to go to there.	not to go to there.	n/a	n/a	n/a
+490.83	0.2	490830	255	filler_word	66	47	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I found an excuse not to go to there.	not to go to there.	n/a	n/a	n/a
+491.315	0.2	491315	211	control_incorrect	66	47	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I found an excuse not to go to there.	not to go to there.	n/a	n/a	n/a
+491.6	0.0	491600	150	item_marker	67	50	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I cut an finger with a knife.	with a knife.	n/a	n/a	n/a
+491.8	0.2	491800	255	filler_word	67	50	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I cut an finger with a knife.	with a knife.	n/a	n/a	n/a
+492.286	0.2	492286	255	filler_word	67	50	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I cut an finger with a knife.	with a knife.	n/a	n/a	n/a
+492.771	0.2	492771	255	filler_word	67	50	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I cut an finger with a knife.	with a knife.	n/a	n/a	n/a
+495.13	0.2	495130	255	filler_word	67	50	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I cut an finger with a knife.	with a knife.	n/a	n/a	n/a
+495.615	0.2	495615	255	filler_word	67	50	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I cut an finger with a knife.	with a knife.	n/a	n/a	n/a
+496.1	0.2	496100	255	filler_word	67	50	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I cut an finger with a knife.	with a knife.	n/a	n/a	n/a
+496.585	0.2	496585	255	filler_word	67	50	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I cut an finger with a knife.	with a knife.	n/a	n/a	n/a
+497.07	0.2	497070	211	control_incorrect	67	50	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I cut an finger with a knife.	with a knife.	n/a	n/a	n/a
+497.355	0.0	497355	162	item_marker	68	62	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The team needs an coach for the new season.	for the new season.	n/a	n/a	n/a
+497.556	0.2	497556	255	filler_word	68	62	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The team needs an coach for the new season.	for the new season.	n/a	n/a	n/a
+498.041	0.2	498041	255	filler_word	68	62	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The team needs an coach for the new season.	for the new season.	n/a	n/a	n/a
+498.526	0.2	498526	255	filler_word	68	62	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The team needs an coach for the new season.	for the new season.	n/a	n/a	n/a
+499.011	0.2	499011	255	filler_word	68	62	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The team needs an coach for the new season.	for the new season.	n/a	n/a	n/a
+501.019	0.2	501019	255	filler_word	68	62	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The team needs an coach for the new season.	for the new season.	n/a	n/a	n/a
+501.504	0.2	501504	255	filler_word	68	62	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The team needs an coach for the new season.	for the new season.	n/a	n/a	n/a
+501.989	0.2	501989	255	filler_word	68	62	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The team needs an coach for the new season.	for the new season.	n/a	n/a	n/a
+502.474	0.2	502474	211	control_incorrect	68	62	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The team needs an coach for the new season.	for the new season.	n/a	n/a	n/a
+502.759	0.0	502759	154	item_marker	69	54	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He became an director after being an actor for years.	after being an actor for years.	n/a	n/a	n/a
+502.96	0.2	502960	255	filler_word	69	54	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He became an director after being an actor for years.	after being an actor for years.	n/a	n/a	n/a
+503.445	0.2	503445	255	filler_word	69	54	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He became an director after being an actor for years.	after being an actor for years.	n/a	n/a	n/a
+503.93	0.2	503930	255	filler_word	69	54	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He became an director after being an actor for years.	after being an actor for years.	n/a	n/a	n/a
+504.415	0.2	504415	255	filler_word	69	54	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He became an director after being an actor for years.	after being an actor for years.	n/a	n/a	n/a
+504.9	0.2	504900	255	filler_word	69	54	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He became an director after being an actor for years.	after being an actor for years.	n/a	n/a	n/a
+505.385	0.2	505385	255	filler_word	69	54	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He became an director after being an actor for years.	after being an actor for years.	n/a	n/a	n/a
+510.957	0.2	510957	255	filler_word	69	54	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He became an director after being an actor for years.	after being an actor for years.	n/a	n/a	n/a
+511.442	0.2	511442	255	filler_word	69	54	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He became an director after being an actor for years.	after being an actor for years.	n/a	n/a	n/a
+511.927	0.2	511927	255	filler_word	69	54	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He became an director after being an actor for years.	after being an actor for years.	n/a	n/a	n/a
+512.412	0.2	512412	255	filler_word	69	54	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He became an director after being an actor for years.	after being an actor for years.	n/a	n/a	n/a
+512.897	0.2	512897	255	filler_word	69	54	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He became an director after being an actor for years.	after being an actor for years.	n/a	n/a	n/a
+513.383	0.2	513383	210	control_correct	69	54	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	He became an director after being an actor for years.	after being an actor for years.	n/a	n/a	n/a
+513.667	0.0	513667	144	item_marker	70	44	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The money is in an envelope on the table.	on the table.	n/a	n/a	n/a
+513.868	0.2	513868	255	filler_word	70	44	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The money is in an envelope on the table.	on the table.	n/a	n/a	n/a
+514.353	0.2	514353	255	filler_word	70	44	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The money is in an envelope on the table.	on the table.	n/a	n/a	n/a
+514.838	0.2	514838	255	filler_word	70	44	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The money is in an envelope on the table.	on the table.	n/a	n/a	n/a
+517.264	0.2	517264	255	filler_word	70	44	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The money is in an envelope on the table.	on the table.	n/a	n/a	n/a
+517.749	0.2	517749	255	filler_word	70	44	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The money is in an envelope on the table.	on the table.	n/a	n/a	n/a
+518.234	0.2	518234	211	control_incorrect	70	44	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The money is in an envelope on the table.	on the table.	n/a	n/a	n/a
+518.519	0.0	518519	142	item_marker	71	42	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Being an parent is very difficult.	is very difficult.	n/a	n/a	n/a
+518.72	0.2	518720	255	filler_word	71	42	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Being an parent is very difficult.	is very difficult.	n/a	n/a	n/a
+519.205	0.2	519205	255	filler_word	71	42	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Being an parent is very difficult.	is very difficult.	n/a	n/a	n/a
+519.69	0.2	519690	255	filler_word	71	42	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Being an parent is very difficult.	is very difficult.	n/a	n/a	n/a
+521.781	0.2	521781	255	filler_word	71	42	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Being an parent is very difficult.	is very difficult.	n/a	n/a	n/a
+522.266	0.2	522266	255	filler_word	71	42	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Being an parent is very difficult.	is very difficult.	n/a	n/a	n/a
+522.752	0.2	522752	255	filler_word	71	42	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Being an parent is very difficult.	is very difficult.	n/a	n/a	n/a
+523.237	0.2	523237	211	control_incorrect	71	42	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Being an parent is very difficult.	is very difficult.	n/a	n/a	n/a
+523.521	0.0	523521	146	item_marker	72	46	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I am an beginner in Korean.	in Korean.	n/a	n/a	n/a
+523.722	0.2	523722	255	filler_word	72	46	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I am an beginner in Korean.	in Korean.	n/a	n/a	n/a
+524.207	0.2	524207	255	filler_word	72	46	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I am an beginner in Korean.	in Korean.	n/a	n/a	n/a
+526.399	0.2	526399	255	filler_word	72	46	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I am an beginner in Korean.	in Korean.	n/a	n/a	n/a
+526.884	0.2	526884	255	filler_word	72	46	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I am an beginner in Korean.	in Korean.	n/a	n/a	n/a
+527.369	0.2	527369	255	filler_word	72	46	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I am an beginner in Korean.	in Korean.	n/a	n/a	n/a
+527.854	0.2	527854	210	control_correct	72	46	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	I am an beginner in Korean.	in Korean.	n/a	n/a	n/a
+528.139	0.0	528139	171	item_marker	73	71	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	We have an order for ten pizzas.	for ten pizzas.	n/a	n/a	n/a
+528.34	0.2	528340	255	filler_word	73	71	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	We have an order for ten pizzas.	for ten pizzas.	n/a	n/a	n/a
+528.825	0.2	528825	255	filler_word	73	71	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	We have an order for ten pizzas.	for ten pizzas.	n/a	n/a	n/a
+529.31	0.2	529310	255	filler_word	73	71	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	We have an order for ten pizzas.	for ten pizzas.	n/a	n/a	n/a
+532.455	0.2	532455	255	filler_word	73	71	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	We have an order for ten pizzas.	for ten pizzas.	n/a	n/a	n/a
+532.94	0.2	532940	255	filler_word	73	71	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	We have an order for ten pizzas.	for ten pizzas.	n/a	n/a	n/a
+533.426	0.2	533426	211	control_incorrect	73	71	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	We have an order for ten pizzas.	for ten pizzas.	n/a	n/a	n/a
+533.71	0.0	533710	141	item_marker	74	41	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Ask a adult for advice.	for advice.	n/a	n/a	n/a
+533.911	0.2	533911	255	filler_word	74	41	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Ask a adult for advice.	for advice.	n/a	n/a	n/a
+534.396	0.2	534396	255	filler_word	74	41	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Ask a adult for advice.	for advice.	n/a	n/a	n/a
+539.599	0.2	539599	255	filler_word	74	41	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Ask a adult for advice.	for advice.	n/a	n/a	n/a
+540.084	0.2	540084	255	filler_word	74	41	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Ask a adult for advice.	for advice.	n/a	n/a	n/a
+540.569	0.2	540569	255	filler_word	74	41	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Ask a adult for advice.	for advice.	n/a	n/a	n/a
+541.055	0.2	541055	255	filler_word	74	41	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Ask a adult for advice.	for advice.	n/a	n/a	n/a
+541.54	0.2	541540	211	control_incorrect	74	41	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Ask a adult for advice.	for advice.	n/a	n/a	n/a
+541.824	0.0	541824	173	item_marker	75	73	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Roger parties like a animal when he is drunk.	when he is drunk.	n/a	n/a	n/a
+542.025	0.2	542025	255	filler_word	75	73	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Roger parties like a animal when he is drunk.	when he is drunk.	n/a	n/a	n/a
+542.51	0.2	542510	255	filler_word	75	73	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Roger parties like a animal when he is drunk.	when he is drunk.	n/a	n/a	n/a
+542.995	0.2	542995	255	filler_word	75	73	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Roger parties like a animal when he is drunk.	when he is drunk.	n/a	n/a	n/a
+543.481	0.2	543481	255	filler_word	75	73	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Roger parties like a animal when he is drunk.	when he is drunk.	n/a	n/a	n/a
+546.843	0.2	546843	255	filler_word	75	73	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Roger parties like a animal when he is drunk.	when he is drunk.	n/a	n/a	n/a
+547.328	0.2	547328	255	filler_word	75	73	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Roger parties like a animal when he is drunk.	when he is drunk.	n/a	n/a	n/a
+547.814	0.2	547814	255	filler_word	75	73	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Roger parties like a animal when he is drunk.	when he is drunk.	n/a	n/a	n/a
+548.299	0.2	548299	255	filler_word	75	73	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Roger parties like a animal when he is drunk.	when he is drunk.	n/a	n/a	n/a
+548.784	0.2	548784	210	control_correct	75	73	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Roger parties like a animal when he is drunk.	when he is drunk.	n/a	n/a	n/a
+549.068	0.0	549068	172	item_marker	76	72	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Tom gave Mary a compliment but she didn't like it.	but she didn't like it.	n/a	n/a	n/a
+549.269	0.2	549269	255	filler_word	76	72	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Tom gave Mary a compliment but she didn't like it.	but she didn't like it.	n/a	n/a	n/a
+549.754	0.2	549754	255	filler_word	76	72	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Tom gave Mary a compliment but she didn't like it.	but she didn't like it.	n/a	n/a	n/a
+550.24	0.2	550240	255	filler_word	76	72	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Tom gave Mary a compliment but she didn't like it.	but she didn't like it.	n/a	n/a	n/a
+550.725	0.2	550725	255	filler_word	76	72	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Tom gave Mary a compliment but she didn't like it.	but she didn't like it.	n/a	n/a	n/a
+551.21	0.2	551210	255	filler_word	76	72	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Tom gave Mary a compliment but she didn't like it.	but she didn't like it.	n/a	n/a	n/a
+553.268	0.2	553268	255	filler_word	76	72	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Tom gave Mary a compliment but she didn't like it.	but she didn't like it.	n/a	n/a	n/a
+553.753	0.2	553753	255	filler_word	76	72	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Tom gave Mary a compliment but she didn't like it.	but she didn't like it.	n/a	n/a	n/a
+554.238	0.2	554238	255	filler_word	76	72	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Tom gave Mary a compliment but she didn't like it.	but she didn't like it.	n/a	n/a	n/a
+554.723	0.2	554723	255	filler_word	76	72	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Tom gave Mary a compliment but she didn't like it.	but she didn't like it.	n/a	n/a	n/a
+555.208	0.2	555208	255	filler_word	76	72	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Tom gave Mary a compliment but she didn't like it.	but she didn't like it.	n/a	n/a	n/a
+555.694	0.2	555694	211	control_incorrect	76	72	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Tom gave Mary a compliment but she didn't like it.	but she didn't like it.	n/a	n/a	n/a
+555.978	0.0	555978	145	item_marker	77	45	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	It is difficult for a amateur to take good pictures.	to take good pictures.	n/a	n/a	n/a
+556.179	0.2	556179	255	filler_word	77	45	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	It is difficult for a amateur to take good pictures.	to take good pictures.	n/a	n/a	n/a
+556.664	0.2	556664	255	filler_word	77	45	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	It is difficult for a amateur to take good pictures.	to take good pictures.	n/a	n/a	n/a
+557.149	0.2	557149	255	filler_word	77	45	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	It is difficult for a amateur to take good pictures.	to take good pictures.	n/a	n/a	n/a
+557.634	0.2	557634	255	filler_word	77	45	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	It is difficult for a amateur to take good pictures.	to take good pictures.	n/a	n/a	n/a
+571.086	0.2	571086	255	filler_word	77	45	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	It is difficult for a amateur to take good pictures.	to take good pictures.	n/a	n/a	n/a
+571.571	0.2	571571	255	filler_word	77	45	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	It is difficult for a amateur to take good pictures.	to take good pictures.	n/a	n/a	n/a
+572.056	0.2	572056	255	filler_word	77	45	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	It is difficult for a amateur to take good pictures.	to take good pictures.	n/a	n/a	n/a
+572.541	0.2	572541	255	filler_word	77	45	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	It is difficult for a amateur to take good pictures.	to take good pictures.	n/a	n/a	n/a
+573.026	0.2	573026	211	control_incorrect	77	45	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	It is difficult for a amateur to take good pictures.	to take good pictures.	n/a	n/a	n/a
+573.311	0.0	573311	169	item_marker	78	69	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The Atlantic is a ocean between Europe and America.	between Europe and America.	n/a	n/a	n/a
+573.512	0.2	573512	255	filler_word	78	69	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The Atlantic is a ocean between Europe and America.	between Europe and America.	n/a	n/a	n/a
+573.997	0.2	573997	255	filler_word	78	69	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The Atlantic is a ocean between Europe and America.	between Europe and America.	n/a	n/a	n/a
+574.482	0.2	574482	255	filler_word	78	69	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The Atlantic is a ocean between Europe and America.	between Europe and America.	n/a	n/a	n/a
+574.967	0.2	574967	255	filler_word	78	69	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The Atlantic is a ocean between Europe and America.	between Europe and America.	n/a	n/a	n/a
+577.811	0.2	577811	255	filler_word	78	69	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The Atlantic is a ocean between Europe and America.	between Europe and America.	n/a	n/a	n/a
+578.296	0.2	578296	255	filler_word	78	69	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The Atlantic is a ocean between Europe and America.	between Europe and America.	n/a	n/a	n/a
+578.782	0.2	578782	255	filler_word	78	69	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The Atlantic is a ocean between Europe and America.	between Europe and America.	n/a	n/a	n/a
+579.267	0.2	579267	210	control_correct	78	69	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	The Atlantic is a ocean between Europe and America.	between Europe and America.	n/a	n/a	n/a
+579.551	0.0	579551	156	item_marker	79	56	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	There was a crowd gathered around the street-performer.	gathered around the street-performer.	n/a	n/a	n/a
+579.752	0.2	579752	255	filler_word	79	56	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	There was a crowd gathered around the street-performer.	gathered around the street-performer.	n/a	n/a	n/a
+580.237	0.2	580237	255	filler_word	79	56	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	There was a crowd gathered around the street-performer.	gathered around the street-performer.	n/a	n/a	n/a
+580.722	0.2	580722	255	filler_word	79	56	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	There was a crowd gathered around the street-performer.	gathered around the street-performer.	n/a	n/a	n/a
+581.208	0.2	581208	255	filler_word	79	56	1	control	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	There was a crowd gathered around the street-performer.	gathered around the street-performer.	n/a	n/a	n/a

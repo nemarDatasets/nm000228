@@ -1,0 +1,101 @@
+{
+  "onset": {
+    "Description": "Onset (in seconds) of the event from the beginning of the first datapoint. Negative onsets account for events before the first stored data point.",
+    "Units": "s"
+  },
+  "duration": {
+    "Description": "Duration of the event in seconds from onset. Must be zero, positive, or 'n/a' if unavailable. A zero value indicates an impulse event. ",
+    "Units": "s"
+  },
+  "sample": {
+    "Description": "The event onset time in number of sampling points.First sample is 0."
+  },
+  "value": {
+    "Description": "Original integer trigger code from the recording"
+  },
+  "trial_type": {
+    "Description": "Event type \u2014 see below for levels",
+    "Levels": {
+      "a_expected": "Article 'a', expected (high cloze)",
+      "an_expected": "Article 'an', expected (high cloze)",
+      "a_unexpected": "Article 'a', unexpected (low cloze)",
+      "an_unexpected": "Article 'an', unexpected (low cloze)",
+      "noun_expected": "Target noun, expected (high cloze)",
+      "noun_unexpected": "Target noun, unexpected (low cloze)",
+      "final_expected": "Sentence final word, expected condition",
+      "final_unexpected": "Sentence final word, unexpected condition",
+      "control_correct": "Grammatically correct article (control exp)",
+      "control_incorrect": "Grammatically incorrect article (control exp)",
+      "filler_word": "Any other (non-critical) word",
+      "question": "Comprehension question onset (variant)",
+      "cloze_marker": "Cloze probability marker (trigger 1-100 or 200)",
+      "item_marker": "Stimulus item marker (trigger 101-180)",
+      "unknown_trigger": "Trigger not matched to any known category"
+    }
+  },
+  "sequence_id": {
+    "Description": "Sentence sequence index within the run (0-based)"
+  },
+  "item_number": {
+    "Description": "Stimulus item number (1-80)"
+  },
+  "list": {
+    "Description": "Stimulus list assignment (1 or 2)"
+  },
+  "task_type": {
+    "Description": "Task type: delong or control"
+  },
+  "condition": {
+    "Description": "Expected vs unexpected condition for this trial"
+  },
+  "expected_article": {
+    "Description": "Indefinite article ('a' or 'an') that would be expected in the high-cloze condition"
+  },
+  "unexpected_article": {
+    "Description": "Indefinite article that would be unexpected in the high-cloze condition"
+  },
+  "expected_noun": {
+    "Description": "Target noun for the expected condition"
+  },
+  "unexpected_noun": {
+    "Description": "Target noun for the unexpected condition"
+  },
+  "expected_cloze": {
+    "Description": "Cloze probability for expected continuation (0-100)",
+    "Units": "percent"
+  },
+  "unexpected_cloze": {
+    "Description": "Cloze probability for unexpected continuation (0-100)",
+    "Units": "percent"
+  },
+  "plausibility_expected": {
+    "Description": "Mean plausibility rating of the expected noun (1-7 Likert)"
+  },
+  "plausibility_unexpected": {
+    "Description": "Mean plausibility rating of the unexpected noun (1-7 Likert)"
+  },
+  "sentence_context": {
+    "Description": "Leading sentence context (text before the critical article/noun)"
+  },
+  "sentence_ending": {
+    "Description": "Sentence ending (text after the critical noun)"
+  },
+  "has_question": {
+    "Description": "True if the sentence was followed by a comprehension question"
+  },
+  "question_text": {
+    "Description": "Text of the comprehension question, if any"
+  },
+  "question_answer": {
+    "Description": "Correct answer to the comprehension question",
+    "Levels": {
+      "yes": "Yes",
+      "no": "No"
+    }
+  },
+  "StimulusPresentation": {
+    "OperatingSystem": "n/a",
+    "SoftwareName": "E-Prime / Presentation",
+    "SoftwareVersion": "n/a"
+  }
+}

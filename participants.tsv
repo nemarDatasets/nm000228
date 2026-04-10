@@ -1,0 +1,357 @@
+participant_id	lab	lab_number	institution	list	accuracy	n_article_trials	n_noun_trials	included_in_paper	exclusion_note	hand	age_range	native_language	recording_system	age	sex	weight	height
+sub-birm01	birm	1	University of Birmingham	1	90.0	78	79	True	n/a	n/a	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm02	birm	1	University of Birmingham	1	95.0	64	64	True	n/a	n/a	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm03	birm	1	University of Birmingham	2	100.0	63	62	True	n/a	n/a	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm04	birm	1	University of Birmingham	2	100.0	80	80	True	n/a	n/a	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm05	birm	1	University of Birmingham	1	100.0	79	80	True	n/a	n/a	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm06	birm	1	University of Birmingham	1	100.0	80	79	True	n/a	n/a	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm07	birm	1	University of Birmingham	2	100.0	79	79	True	n/a	n/a	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm08	birm	1	University of Birmingham	2	100.0	80	80	True	n/a	n/a	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm09	birm	1	University of Birmingham	1	100.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm10	birm	1	University of Birmingham	1	95.0	76	76	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm11	birm	1	University of Birmingham	2	100.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm12	birm	1	University of Birmingham	2	100.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm13	birm	1	University of Birmingham	1	100.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm14	birm	1	University of Birmingham	1	95.0	76	76	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm15	birm	1	University of Birmingham	2	95.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm16	birm	1	University of Birmingham	2	100.0	79	79	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm17	birm	1	University of Birmingham	2	100.0	73	73	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm18	birm	1	University of Birmingham	1	100.0	79	79	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm19	birm	1	University of Birmingham	1	100.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm20	birm	1	University of Birmingham	2	95.0	75	75	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm21	birm	1	University of Birmingham	1	95.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm22	birm	1	University of Birmingham	1	90.0	72	70	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm23	birm	1	University of Birmingham	2	100.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm24	birm	1	University of Birmingham	2	100.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm25	birm	1	University of Birmingham	1	95.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm26	birm	1	University of Birmingham	1	95.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm27	birm	1	University of Birmingham	2	100.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm28	birm	1	University of Birmingham	2	95.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm29	birm	1	University of Birmingham	1	100.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm30	birm	1	University of Birmingham	1	95.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm31	birm	1	University of Birmingham	2	85.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm32	birm	1	University of Birmingham	2	100.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm33	birm	1	University of Birmingham	1	100.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm34	birm	1	University of Birmingham	1	100.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm35	birm	1	University of Birmingham	2	100.0	79	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm36	birm	1	University of Birmingham	2	95.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm37	birm	1	University of Birmingham	1	95.0	79	79	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm38	birm	1	University of Birmingham	1	100.0	77	77	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm39	birm	1	University of Birmingham	2	90.0	0	0	False	not_in_paper_analysis	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm40	birm	1	University of Birmingham	2	90.0	78	78	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm41	birm	1	University of Birmingham	1	95.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm42	birm	1	University of Birmingham	1	95.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-birm43	birm	1	University of Birmingham	2	90.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris01	bris	2	University of Bristol	1	95.0	73	72	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris02	bris	2	University of Bristol	1	90.0	77	78	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris03	bris	2	University of Bristol	2	95.0	67	65	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris04	bris	2	University of Bristol	2	100.0	79	77	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris05	bris	2	University of Bristol	1	95.0	78	78	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris06	bris	2	University of Bristol	1	90.0	67	69	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris07	bris	2	University of Bristol	2	100.0	79	79	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris08	bris	2	University of Bristol	2	100.0	79	78	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris09	bris	2	University of Bristol	1	95.0	80	79	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris10	bris	2	University of Bristol	1	95.0	78	79	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris11	bris	2	University of Bristol	2	100.0	79	79	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris12	bris	2	University of Bristol	2	90.0	71	71	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris13	bris	2	University of Bristol	1	100.0	79	79	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris14	bris	2	University of Bristol	1	100.0	79	79	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris15	bris	2	University of Bristol	2	95.0	76	76	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris16	bris	2	University of Bristol	2	100.0	78	78	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris17	bris	2	University of Bristol	1	95.0	75	75	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris18	bris	2	University of Bristol	1	90.0	79	79	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris19	bris	2	University of Bristol	2	100.0	79	78	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris20	bris	2	University of Bristol	2	95.0	76	76	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris21	bris	2	University of Bristol	1	95.0	75	76	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris22	bris	2	University of Bristol	1	95.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris23	bris	2	University of Bristol	2	100.0	78	78	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris24	bris	2	University of Bristol	2	86.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris25	bris	2	University of Bristol	1	95.0	79	79	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris26	bris	2	University of Bristol	1	95.0	80	79	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris27	bris	2	University of Bristol	2	90.0	79	78	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris28	bris	2	University of Bristol	2	95.0	76	75	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris29	bris	2	University of Bristol	1	95.0	79	79	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris30	bris	2	University of Bristol	1	95.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris31	bris	2	University of Bristol	2	90.0	76	76	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris32	bris	2	University of Bristol	2	100.0	79	79	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris33	bris	2	University of Bristol	1	100.0	79	79	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris34	bris	2	University of Bristol	1	100.0	79	79	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris35	bris	2	University of Bristol	2	95.0	77	76	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris36	bris	2	University of Bristol	2	90.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris37	bris	2	University of Bristol	1	100.0	61	61	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris38	bris	2	University of Bristol	1	95.0	76	76	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-bris39	bris	2	University of Bristol	2	95.0	79	79	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-edin1	edin	3	University of Edinburgh	1	100.0	78	79	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin10	edin	3	University of Edinburgh	1	95.0	65	66	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin11	edin	3	University of Edinburgh	2	100.0	77	77	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin12	edin	3	University of Edinburgh	2	100.0	80	79	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin13	edin	3	University of Edinburgh	1	100.0	78	78	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin14	edin	3	University of Edinburgh	1	90.0	73	74	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin15	edin	3	University of Edinburgh	2	100.0	78	79	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin16	edin	3	University of Edinburgh	2	95.0	76	77	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin17	edin	3	University of Edinburgh	1	90.0	79	79	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin18	edin	3	University of Edinburgh	1	100.0	77	77	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin19	edin	3	University of Edinburgh	2	95.0	79	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin2	edin	3	University of Edinburgh	1	100.0	71	73	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin20	edin	3	University of Edinburgh	2	100.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin21	edin	3	University of Edinburgh	1	95.0	80	79	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin22	edin	3	University of Edinburgh	1	100.0	0	0	False	not_in_paper_analysis	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin23	edin	3	University of Edinburgh	2	100.0	77	76	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin24	edin	3	University of Edinburgh	2	100.0	73	74	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin25	edin	3	University of Edinburgh	1	95.0	65	67	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin26	edin	3	University of Edinburgh	1	95.0	73	68	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin27	edin	3	University of Edinburgh	2	100.0	80	79	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin28	edin	3	University of Edinburgh	2	85.0	80	78	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin29	edin	3	University of Edinburgh	1	90.0	0	0	False	not_in_paper_analysis	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin3	edin	3	University of Edinburgh	2	100.0	72	74	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin30	edin	3	University of Edinburgh	1	100.0	78	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin31	edin	3	University of Edinburgh	2	100.0	78	78	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin32	edin	3	University of Edinburgh	2	90.0	77	77	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin33	edin	3	University of Edinburgh	1	100.0	71	72	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin34	edin	3	University of Edinburgh	1	100.0	78	75	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin35	edin	3	University of Edinburgh	2	100.0	0	0	False	not_in_paper_analysis	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin36	edin	3	University of Edinburgh	2	100.0	78	79	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin37	edin	3	University of Edinburgh	1	85.0	77	77	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin38	edin	3	University of Edinburgh	1	100.0	77	76	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin39	edin	3	University of Edinburgh	2	100.0	78	77	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin4	edin	3	University of Edinburgh	2	95.0	78	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin40	edin	3	University of Edinburgh	2	85.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin5	edin	3	University of Edinburgh	1	100.0	79	78	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin6	edin	3	University of Edinburgh	1	100.0	77	78	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin7	edin	3	University of Edinburgh	2	90.0	79	78	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin8	edin	3	University of Edinburgh	2	95.0	77	76	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-edin9	edin	3	University of Edinburgh	1	95.0	75	73	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas001	glas	4	University of Glasgow	1	100.0	79	79	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas002	glas	4	University of Glasgow	2	81.0	72	71	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas003	glas	4	University of Glasgow	1	86.0	79	79	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas004	glas	4	University of Glasgow	2	100.0	79	79	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas005	glas	4	University of Glasgow	2	95.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas006	glas	4	University of Glasgow	1	95.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas007	glas	4	University of Glasgow	1	95.0	74	77	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas008	glas	4	University of Glasgow	2	86.0	79	78	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas009	glas	4	University of Glasgow	1	100.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas010	glas	4	University of Glasgow	2	90.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas011	glas	4	University of Glasgow	2	100.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas012	glas	4	University of Glasgow	1	100.0	80	79	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas013	glas	4	University of Glasgow	2	95.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas014	glas	4	University of Glasgow	1	90.0	70	70	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas015	glas	4	University of Glasgow	2	86.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas016	glas	4	University of Glasgow	1	86.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas017	glas	4	University of Glasgow	2	95.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas018	glas	4	University of Glasgow	1	90.0	79	79	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas019	glas	4	University of Glasgow	1	100.0	79	78	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas020	glas	4	University of Glasgow	2	95.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas021	glas	4	University of Glasgow	2	100.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas022	glas	4	University of Glasgow	1	100.0	79	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas023	glas	4	University of Glasgow	2	100.0	77	78	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas024	glas	4	University of Glasgow	1	95.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas025	glas	4	University of Glasgow	1	100.0	79	79	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas026	glas	4	University of Glasgow	2	95.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas027	glas	4	University of Glasgow	2	100.0	79	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas028	glas	4	University of Glasgow	1	81.0	77	77	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas029	glas	4	University of Glasgow	1	100.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas030	glas	4	University of Glasgow	2	95.0	78	78	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas031	glas	4	University of Glasgow	1	95.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas032	glas	4	University of Glasgow	2	95.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas033	glas	4	University of Glasgow	1	90.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas034	glas	4	University of Glasgow	2	90.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas035	glas	4	University of Glasgow	2	95.0	79	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas036	glas	4	University of Glasgow	1	100.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas037	glas	4	University of Glasgow	1	95.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas038	glas	4	University of Glasgow	2	100.0	79	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas039	glas	4	University of Glasgow	2	100.0	71	75	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-glas040	glas	4	University of Glasgow	1	90.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-kent0001	kent	5	University of Kent	1	n/a	79	79	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0002	kent	5	University of Kent	2	100.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0003	kent	5	University of Kent	1	80.0	77	76	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0004	kent	5	University of Kent	2	100.0	79	80	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0005	kent	5	University of Kent	1	90.0	79	78	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0006	kent	5	University of Kent	2	100.0	79	80	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0007	kent	5	University of Kent	1	100.0	79	79	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0008	kent	5	University of Kent	2	95.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0009	kent	5	University of Kent	1	100.0	78	77	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0010	kent	5	University of Kent	2	100.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0011	kent	5	University of Kent	1	100.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0012	kent	5	University of Kent	2	100.0	80	79	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0013	kent	5	University of Kent	1	95.0	79	79	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0014	kent	5	University of Kent	2	100.0	76	78	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0015	kent	5	University of Kent	1	100.0	77	78	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0016	kent	5	University of Kent	2	100.0	76	77	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0017	kent	5	University of Kent	1	95.0	72	71	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0018	kent	5	University of Kent	2	100.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0019	kent	5	University of Kent	1	100.0	79	79	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0020	kent	5	University of Kent	2	100.0	78	78	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0021	kent	5	University of Kent	1	100.0	78	77	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0022	kent	5	University of Kent	2	90.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0023	kent	5	University of Kent	1	100.0	74	74	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0024	kent	5	University of Kent	2	85.0	77	77	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0025	kent	5	University of Kent	1	90.0	76	73	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0026	kent	5	University of Kent	2	100.0	78	78	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0027	kent	5	University of Kent	1	95.0	77	77	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0028	kent	5	University of Kent	2	85.0	79	79	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0029	kent	5	University of Kent	1	100.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0030	kent	5	University of Kent	2	95.0	79	79	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0031	kent	5	University of Kent	1	95.0	75	76	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0032	kent	5	University of Kent	2	100.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0033	kent	5	University of Kent	1	85.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0034	kent	5	University of Kent	2	80.0	78	80	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0035	kent	5	University of Kent	1	100.0	72	74	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0036	kent	5	University of Kent	2	95.0	73	72	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0037	kent	5	University of Kent	1	100.0	79	78	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-kent0038	kent	5	University of Kent	2	100.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision BrainAmp	n/a	n/a	n/a	n/a
+sub-lond001	lond	6	University College London	2	68.0	79	78	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond002	lond	6	University College London	2	100.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond003	lond	6	University College London	1	62.0	0	0	False	answered questions randomly	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond004	lond	6	University College London	1	95.0	0	0	False	possibly non native English speaker	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond005	lond	6	University College London	2	100.0	77	77	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond006	lond	6	University College London	1	95.0	68	71	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond007	lond	6	University College London	1	90.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond008	lond	6	University College London	1	100.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond009	lond	6	University College London	2	100.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond010	lond	6	University College London	2	100.0	0	0	False	not_in_paper_analysis	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond011	lond	6	University College London	1	100.0	76	75	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond012	lond	6	University College London	2	95.0	75	75	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond013	lond	6	University College London	1	95.0	79	79	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond014	lond	6	University College London	2	90.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond015	lond	6	University College London	1	81.0	0	0	False	not_in_paper_analysis	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond016	lond	6	University College London	2	100.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond017	lond	6	University College London	1	90.0	73	75	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond018	lond	6	University College London	2	71.0	76	76	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond019	lond	6	University College London	1	95.0	77	75	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond020	lond	6	University College London	1	95.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond021	lond	6	University College London	2	95.0	79	79	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond022	lond	6	University College London	1	100.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond023	lond	6	University College London	2	100.0	79	79	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond024	lond	6	University College London	1	95.0	78	78	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond025	lond	6	University College London	1	65.0	76	76	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond026	lond	6	University College London	2	95.0	70	71	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond027	lond	6	University College London	2	71.0	77	77	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond028	lond	6	University College London	1	100.0	70	71	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond029	lond	6	University College London	2	100.0	77	78	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond030	lond	6	University College London	1	76.0	74	76	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond031	lond	6	University College London	1	90.0	75	74	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond032	lond	6	University College London	2	100.0	78	79	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond033	lond	6	University College London	2	95.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond034	lond	6	University College London	1	100.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond035	lond	6	University College London	2	90.0	80	77	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond036	lond	6	University College London	1	78.0	74	75	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond037	lond	6	University College London	2	100.0	80	77	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-lond038	lond	6	University College London	1	90.0	77	78	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo1	oxfo	7	University of Oxford	1	86.0	65	66	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo10	oxfo	7	University of Oxford	2	76.0	80	79	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo11	oxfo	7	University of Oxford	1	95.0	78	78	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo12	oxfo	7	University of Oxford	2	100.0	66	67	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo13	oxfo	7	University of Oxford	1	95.0	79	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo14	oxfo	7	University of Oxford	2	100.0	77	79	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo15	oxfo	7	University of Oxford	1	95.0	71	70	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo16	oxfo	7	University of Oxford	2	95.0	76	78	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo17	oxfo	7	University of Oxford	1	100.0	0	0	False	not_in_paper_analysis	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo18	oxfo	7	University of Oxford	2	95.0	75	74	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo19	oxfo	7	University of Oxford	1	100.0	76	77	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo2	oxfo	7	University of Oxford	2	90.0	77	77	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo20	oxfo	7	University of Oxford	2	95.0	76	77	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo21	oxfo	7	University of Oxford	1	87.0	76	78	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo22	oxfo	7	University of Oxford	2	95.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo23	oxfo	7	University of Oxford	1	95.0	77	79	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo24	oxfo	7	University of Oxford	2	100.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo25	oxfo	7	University of Oxford	1	90.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo26	oxfo	7	University of Oxford	2	95.0	75	76	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo27	oxfo	7	University of Oxford	1	95.0	79	79	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo28	oxfo	7	University of Oxford	2	100.0	80	78	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo29	oxfo	7	University of Oxford	1	90.0	79	79	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo3	oxfo	7	University of Oxford	1	81.0	76	75	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo30	oxfo	7	University of Oxford	2	90.0	78	78	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo31	oxfo	7	University of Oxford	1	100.0	0	0	False	not_in_paper_analysis	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo32	oxfo	7	University of Oxford	2	76.0	71	68	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo33	oxfo	7	University of Oxford	1	95.0	74	70	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo34	oxfo	7	University of Oxford	2	95.0	0	0	False	not_in_paper_analysis	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo35	oxfo	7	University of Oxford	1	100.0	0	0	False	not_in_paper_analysis	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo36	oxfo	7	University of Oxford	2	100.0	79	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo37	oxfo	7	University of Oxford	1	100.0	78	78	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo4	oxfo	7	University of Oxford	2	95.0	80	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo5	oxfo	7	University of Oxford	1	95.0	79	80	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo6	oxfo	7	University of Oxford	2	86.0	78	79	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo7	oxfo	7	University of Oxford	1	100.0	78	78	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo8	oxfo	7	University of Oxford	2	100.0	76	77	True	n/a	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-oxfo9	oxfo	7	University of Oxford	1	95.0	0	0	False	not_in_paper_analysis	R	18-35	English	BioSemi ActiveTwo	n/a	n/a	n/a	n/a
+sub-stir1	stir	8	University of Stirling	1	80.0	80	80	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir10	stir	8	University of Stirling	1	90.0	79	79	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir11	stir	8	University of Stirling	2	85.0	0	0	False	not_in_paper_analysis	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir12	stir	8	University of Stirling	2	95.0	60	61	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir13	stir	8	University of Stirling	1	100.0	80	80	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir14	stir	8	University of Stirling	1	85.0	78	78	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir15	stir	8	University of Stirling	2	90.0	73	77	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir16	stir	8	University of Stirling	2	100.0	78	78	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir17	stir	8	University of Stirling	1	100.0	80	80	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir18	stir	8	University of Stirling	1	95.0	80	80	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir19	stir	8	University of Stirling	2	95.0	80	80	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir2	stir	8	University of Stirling	1	95.0	77	77	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir20	stir	8	University of Stirling	2	90.0	79	78	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir21	stir	8	University of Stirling	1	95.0	73	75	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir22	stir	8	University of Stirling	1	100.0	80	80	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir23	stir	8	University of Stirling	2	95.0	0	0	False	not_in_paper_analysis	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir24	stir	8	University of Stirling	2	90.0	79	78	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir25	stir	8	University of Stirling	1	90.0	80	80	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir26	stir	8	University of Stirling	1	90.0	76	74	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir27	stir	8	University of Stirling	2	85.0	76	75	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir28	stir	8	University of Stirling	2	65.0	79	80	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir29	stir	8	University of Stirling	1	95.0	79	80	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir3	stir	8	University of Stirling	2	95.0	0	0	False	not_in_paper_analysis	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir30	stir	8	University of Stirling	1	90.0	77	76	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir31	stir	8	University of Stirling	2	90.0	0	0	False	not_in_paper_analysis	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir32	stir	8	University of Stirling	2	100.0	79	79	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir33	stir	8	University of Stirling	1	100.0	80	80	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir34	stir	8	University of Stirling	1	95.0	80	80	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir35	stir	8	University of Stirling	2	100.0	80	80	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir36	stir	8	University of Stirling	2	95.0	0	0	False	not_in_paper_analysis	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir37	stir	8	University of Stirling	1	85.0	80	80	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir38	stir	8	University of Stirling	1	100.0	80	80	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir39	stir	8	University of Stirling	2	90.0	80	80	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir4	stir	8	University of Stirling	2	100.0	0	0	False	not_in_paper_analysis	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir40	stir	8	University of Stirling	2	100.0	80	80	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir5	stir	8	University of Stirling	1	95.0	0	0	False	not_in_paper_analysis	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir6	stir	8	University of Stirling	1	90.0	80	80	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir7	stir	8	University of Stirling	2	100.0	80	80	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir8	stir	8	University of Stirling	2	95.0	67	67	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-stir9	stir	8	University of Stirling	1	90.0	80	80	True	n/a	R	18-35	English	Neuroscan SynAmps	n/a	n/a	n/a	n/a
+sub-york1	york	9	University of York	1	95.0	72	70	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york10	york	9	University of York	1	90.0	64	62	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york11	york	9	University of York	2	95.0	0	0	False	not_in_paper_analysis	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york12	york	9	University of York	2	100.0	79	79	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york13	york	9	University of York	1	95.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york14	york	9	University of York	1	100.0	78	78	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york15	york	9	University of York	2	95.0	78	78	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york16	york	9	University of York	2	90.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york17	york	9	University of York	1	81.0	79	79	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york18	york	9	University of York	1	95.0	78	78	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york19	york	9	University of York	2	100.0	72	71	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york2	york	9	University of York	1	100.0	75	76	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york20	york	9	University of York	2	100.0	76	74	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york21	york	9	University of York	1	90.0	63	63	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york22	york	9	University of York	1	95.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york23	york	9	University of York	2	90.0	78	79	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york24	york	9	University of York	2	100.0	76	77	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york25	york	9	University of York	1	95.0	70	69	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york26	york	9	University of York	1	100.0	78	78	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york27	york	9	University of York	2	90.0	73	72	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york28	york	9	University of York	2	100.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york29	york	9	University of York	1	95.0	0	0	False	not_in_paper_analysis	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york3	york	9	University of York	2	100.0	78	79	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york30	york	9	University of York	1	95.0	78	79	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york31	york	9	University of York	2	100.0	76	76	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york32	york	9	University of York	2	95.0	78	78	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york33	york	9	University of York	1	90.0	76	76	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york34	york	9	University of York	1	82.0	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york35	york	9	University of York	2	100.0	78	78	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york36	york	9	University of York	2	95.0	74	72	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york37	york	9	University of York	1	95.0	79	79	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york38	york	9	University of York	1	95.0	77	77	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york39	york	9	University of York	2	100.0	69	71	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york4	york	9	University of York	2	100.0	79	79	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york40	york	9	University of York	2	95.0	79	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york41	york	9	University of York	1	95.0	77	77	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york5	york	9	University of York	1	n/a	80	80	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york6	york	9	University of York	1	95.0	78	78	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york7	york	9	University of York	2	95.0	75	74	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york8	york	9	University of York	2	100.0	78	78	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a
+sub-york9	york	9	University of York	1	100.0	80	79	True	n/a	R	18-35	English	Brain Products BrainVision actiCHamp	n/a	n/a	n/a	n/a

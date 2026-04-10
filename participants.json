@@ -1,0 +1,84 @@
+{
+    "participant_id": {
+        "Description": "Unique participant identifier"
+    },
+    "age": {
+        "Description": "Age of the participant at time of testing",
+        "Units": "years"
+    },
+    "sex": {
+        "Description": "Biological sex of the participant",
+        "Levels": {
+            "F": "female",
+            "M": "male"
+        }
+    },
+    "hand": {
+        "Description": "Handedness of the participant",
+        "Levels": {
+            "R": "right",
+            "L": "left",
+            "A": "ambidextrous"
+        }
+    },
+    "weight": {
+        "Description": "Body weight of the participant",
+        "Units": "kg"
+    },
+    "height": {
+        "Description": "Body height of the participant",
+        "Units": "m"
+    },
+    "lab": {
+        "Description": "Laboratory code",
+        "Levels": {
+            "birm": "University of Birmingham (Lab 1)",
+            "bris": "University of Bristol (Lab 2)",
+            "edin": "University of Edinburgh (Lab 3)",
+            "glas": "University of Glasgow (Lab 4)",
+            "kent": "University of Kent (Lab 5)",
+            "lond": "University College London (Lab 6)",
+            "oxfo": "University of Oxford (Lab 7)",
+            "stir": "University of Stirling (Lab 8)",
+            "york": "University of York (Lab 9)"
+        }
+    },
+    "lab_number": {
+        "Description": "Paper's laboratory numbering (1-9)"
+    },
+    "institution": {
+        "Description": "Full name of recording institution"
+    },
+    "list": {
+        "Description": "Stimulus list assignment (counter-balanced)",
+        "Levels": {
+            "1": "List 1",
+            "2": "List 2"
+        }
+    },
+    "accuracy": {
+        "Description": "Percentage correct on comprehension questions",
+        "Units": "percent"
+    },
+    "n_article_trials": {
+        "Description": "Number of article trials retained in authors' analysis (out of 80)"
+    },
+    "n_noun_trials": {
+        "Description": "Number of noun trials retained in authors' analysis (out of 80)"
+    },
+    "included_in_paper": {
+        "Description": "True if the subject was included in the paper's N=334 analysis (at least 60 out of 80 trials for both articles and nouns)"
+    },
+    "exclusion_note": {
+        "Description": "Optional flag describing any issue noted by the authors or reference implementation (e.g. 'random_answers', 'non_native', 'low_trials')"
+    },
+    "age_range": {
+        "Description": "Age range across participants (18-35, mean 19.8)"
+    },
+    "native_language": {
+        "Description": "Native language (all English)"
+    },
+    "recording_system": {
+        "Description": "EEG amplifier manufacturer and model"
+    }
+}
