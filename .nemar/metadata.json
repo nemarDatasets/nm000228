@@ -1,0 +1,152 @@
+{
+  "version": "2.0",
+  "pipeline_stage": "validated",
+  "authors": {
+    "Mante S. Nieuwland": {
+      "orcid": "0000-0003-4001-6608",
+      "affiliations": [
+        {
+          "name": "Max Planck Institute for Psycholinguistics, Nijmegen, Netherlands"
+        },
+        {
+          "name": "School of Philosophy, Psychology and Language Sciences, University of Edinburgh, Edinburgh, United Kingdom"
+        }
+      ]
+    },
+    "Stephen Politzer-Ahles": {
+      "orcid": "0000-0002-5474-7930",
+      "affiliations": [
+        {
+          "name": "Department of Chinese and Bilingual Studies, The Hong Kong Polytechnic University, Kowloon, Hong Kong"
+        },
+        {
+          "name": "Faculty of Linguistics, Philology and Phonetics, University of Oxford, Oxford, United Kingdom"
+        }
+      ]
+    },
+    "Evelien Heyselaar": {},
+    "Katrien Segaert": {},
+    "Emily Darley": {},
+    "Nina Kazanina": {
+      "orcid": "0000-0001-7737-4279",
+      "affiliations": [
+        {
+          "name": "School of Experimental Psychology, University of Bristol, Bristol, United Kingdom"
+        }
+      ]
+    },
+    "Sarah Von Grebmer Zu Wolfsthurn": {},
+    "Federica Bartolozzi": {},
+    "Vita Kogan": {},
+    "Aine Ito": {
+      "orcid": "0000-0003-4408-8801",
+      "affiliations": [
+        {
+          "name": "School of Philosophy, Psychology and Language Sciences, University of Edinburgh, Edinburgh, United Kingdom"
+        },
+        {
+          "name": "Faculty of Linguistics, Philology and Phonetics, University of Oxford, Oxford, United Kingdom"
+        }
+      ]
+    },
+    "Diane Mézière": {},
+    "Dale J. Barr": {},
+    "Guillaume A. Rousselet": {
+      "orcid": "0000-0003-0006-8729",
+      "affiliations": [
+        {
+          "name": "Institute of Neuroscience and Psychology, University of Glasgow, Glasgow, United Kingdom"
+        }
+      ]
+    },
+    "Heather J. Ferguson": {},
+    "Simon Busch-Moreno": {},
+    "Xiao Fu": {},
+    "Jyrki Tuomainen": {},
+    "Eugenia Kulakova": {},
+    "E. Matthew Husband": {},
+    "David I. Donaldson": {},
+    "Zdenko Kohút": {},
+    "Shirley-Ann Rueschemeyer": {},
+    "Falk Huettig": {}
+  },
+  "related_identifiers": [
+    {
+      "identifier": "10.7554/eLife.33468",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/nm000228",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=nm000228",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    }
+  ],
+  "funding_references": [
+    {
+      "funder_name": "Max Planck Society"
+    },
+    {
+      "funder_name": "Economic and Social Research Council",
+      "award_number": "ESRC"
+    },
+    {
+      "funder_name": "The Netherlands Organization for Scientific Research",
+      "award_number": "275-89-021",
+      "award_title": "Veni grant"
+    }
+  ],
+  "title": "Nieuwland et al. 2018: Multi-site N400 Replication Study",
+  "license": "CC-BY 4.0",
+  "dataset_type": "raw",
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "eeg"
+  ],
+  "resource_type_specific": "EEG Dataset",
+  "sizes": [
+    "109.8 GB (397 files)"
+  ],
+  "formats": [
+    ".bdf",
+    ".json",
+    ".md",
+    ".py",
+    ".tsv",
+    ".yml"
+  ],
+  "description": "A large-scale multi-site replication study (N=356) of the DeLong et al. (2005) N400 experiment examining phonological prediction during sentence comprehension. Participants read sentences word-by-word via rapid serial visual presentation while EEG was recorded across nine UK laboratories. The study tests whether readers pre-activate phonological forms of upcoming nouns based on preceding indefinite articles (a/an) in expected versus unexpected semantic contexts, providing evidence on the limits of probabilistic prediction in language processing.",
+  "methods_description": "EEG data were collected from 356 right-handed native English speakers (ages 18–35) across nine laboratories using word-by-word rapid serial visual presentation (RSVP) at 2 words per second. Participants read 80 replication sentences and 80 control sentences containing indefinite articles preceding highly expected or unexpected nouns (based on cloze probability). Recording systems varied by site (BrainVision, BioSemi BDF, Neuroscan CNT) with sampling rates ranging from 250–2048 Hz and 32–128 EEG channels. Comprehension questions were administered on a subset of trials with yes/no button responses.",
+  "keywords": [
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "N400"
+    },
+    {
+      "term": "language comprehension"
+    },
+    {
+      "term": "prediction"
+    },
+    {
+      "term": "replication study"
+    },
+    {
+      "term": "Event-Related Potentials, P300",
+      "subject_scheme": "MeSH",
+      "scheme_uri": "https://id.nlm.nih.gov/mesh/",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D018913"
+    },
+    {
+      "term": "multi-site study"
+    }
+  ],
+  "source_hash": "d7518a0d3b0b0ed58d055c4bf15198bb7278a240cb18ee8c9dea9a4be670d5db"
+}
