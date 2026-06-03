@@ -15,7 +15,7 @@
     "Federica Bartolozzi",
     "Vita Kogan",
     "Aine Ito",
-    "Diane M\u00e9zi\u00e8re",
+    "Diane Mézière",
     "Dale J. Barr",
     "Guillaume A. Rousselet",
     "Heather J. Ferguson",
@@ -25,7 +25,7 @@
     "Eugenia Kulakova",
     "E. Matthew Husband",
     "David I. Donaldson",
-    "Zdenko Koh\u00fat",
+    "Zdenko Kohút",
     "Shirley-Ann Rueschemeyer",
     "Falk Huettig"
   ],
@@ -41,7 +41,7 @@
     "https://doi.org/10.7554/eLife.33468",
     "https://elifesciences.org/articles/33468"
   ],
-  "DatasetDOI": "doi:10.7554/eLife.33468",
+  "DatasetDOI": "10.82901/nemar.nm000228",
   "GeneratedBy": [
     {
       "Name": "convert_nieuwland2018.py (EEGDash)",
@@ -52,6 +52,9 @@
   "SourceDatasets": [
     {
       "URL": "https://osf.io/eyzaq/"
+    },
+    {
+      "DOI": "doi:10.7554/eLife.33468"
     }
   ],
   "Version": "1.0.0"
