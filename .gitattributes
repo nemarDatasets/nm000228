@@ -1,0 +1,4 @@
+sourcedata/** annex.largefiles=nothing
+README.md annex.largefiles=nothing
+*.tsv annex.largefiles=nothing
+*.json annex.largefiles=nothing

@@ -136,3 +136,8 @@ Appelhoff, S., Sanderson, M., Brooks, T., Vliet, M., Quentin, R., Holdgraf, C., 
 
 Pernet, C. R., Appelhoff, S., Gorgolewski, K. J., Flandin, G., Phillips, C., Delorme, A., Oostenveld, R. (2019). EEG-BIDS, an extension to the brain imaging data structure for electroencephalography. Scientific Data, 6, 103.https://doi.org/10.1038/s41597-019-0104-8
 
+
+## Note: BRIS control recordings (bris04/09/17/36)
+The raw BrainVision `.vhdr` headers for four BRIS `control` recordings are truncated/missing in the
+upstream OSF source. Reconstructed, MNE-verified headers and the raw recordings are provided in
+`sourcedata/BRIS/` (see `sourcedata/README.md`). Resolves issue #1.
