@@ -1,6 +1,11 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
+  "title": "Nieuwland et al. 2018: Multi-site N400 Replication Study",
+  "description": "A large-scale multi-laboratory replication study (N=356 participants across 9 UK institutions) investigating probabilistic prediction in language comprehension using event-related potentials (ERP). Participants read sentences word-by-word while EEG was recorded, with critical manipulations of indefinite articles (a/an) preceding expected or unexpected nouns. The study tests whether readers pre-activate phonological forms of predicted words, replicating and extending DeLong, Urbach & Kutas (2005). Raw EEG data from multiple recording systems (BioSemi, BrainVision, Neuroscan) are provided in BIDS format with enriched event metadata including cloze probabilities and stimulus characteristics.",
+  "methods_description": "EEG was recorded during a word-by-word rapid serial visual presentation (RSVP) task at 2 words per second (200 ms word duration + 300 ms blank). Participants read 80 replication sentences and 80 control sentences with indefinite articles preceding either high or low cloze probability nouns. Comprehension questions were presented on a subset of trials requiring yes/no button responses. Data were collected across 9 laboratories using different recording systems (BioSemi BDF, BrainVision, Neuroscan CNT) with sampling rates ranging from 250–2048 Hz and 32–128 EEG channels plus peripheral channels.",
+  "license": "CC-BY 4.0",
+  "dataset_type": "raw",
   "authors": {
     "Mante S. Nieuwland": {
       "orcid": "0000-0003-4001-6608",
@@ -70,6 +75,29 @@
     "Shirley-Ann Rueschemeyer": {},
     "Falk Huettig": {}
   },
+  "keywords": [
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "event-related potentials"
+    },
+    {
+      "term": "N400"
+    },
+    {
+      "term": "language comprehension"
+    },
+    {
+      "term": "prediction"
+    },
+    {
+      "term": "replication study"
+    },
+    {
+      "term": "multi-site"
+    }
+  ],
   "related_identifiers": [
     {
       "identifier": "10.7554/eLife.33468",
@@ -82,7 +110,7 @@
       "relation_type": "IsDescribedBy"
     },
     {
-      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=nm000228",
+      "identifier": "https://nemar.org/dataset/nm000228",
       "identifier_type": "URL",
       "relation_type": "IsDescribedBy"
     }
@@ -101,52 +129,24 @@
       "award_title": "Veni grant"
     }
   ],
-  "title": "Nieuwland et al. 2018: Multi-site N400 Replication Study",
-  "license": "CC-BY 4.0",
-  "dataset_type": "raw",
   "resource_type_general": "Dataset",
+  "resource_type_specific": "EEG Dataset",
   "modalities": [
     "eeg"
   ],
-  "resource_type_specific": "EEG Dataset",
   "sizes": [
     "109.8 GB (397 files)"
   ],
   "formats": [
     ".bdf",
+    ".eeg",
     ".json",
     ".md",
     ".py",
     ".tsv",
+    ".vhdr",
+    ".vmrk",
     ".yml"
   ],
-  "description": "A large-scale multi-site replication study (N=356) of the DeLong et al. (2005) N400 experiment examining phonological prediction during sentence comprehension. Participants read sentences word-by-word via rapid serial visual presentation while EEG was recorded across nine UK laboratories. The study tests whether readers pre-activate phonological forms of upcoming nouns based on preceding indefinite articles (a/an) in expected versus unexpected semantic contexts, providing evidence on the limits of probabilistic prediction in language processing.",
-  "methods_description": "EEG data were collected from 356 right-handed native English speakers (ages 18–35) across nine laboratories using word-by-word rapid serial visual presentation (RSVP) at 2 words per second. Participants read 80 replication sentences and 80 control sentences containing indefinite articles preceding highly expected or unexpected nouns (based on cloze probability). Recording systems varied by site (BrainVision, BioSemi BDF, Neuroscan CNT) with sampling rates ranging from 250–2048 Hz and 32–128 EEG channels. Comprehension questions were administered on a subset of trials with yes/no button responses.",
-  "keywords": [
-    {
-      "term": "EEG"
-    },
-    {
-      "term": "N400"
-    },
-    {
-      "term": "language comprehension"
-    },
-    {
-      "term": "prediction"
-    },
-    {
-      "term": "replication study"
-    },
-    {
-      "term": "Event-Related Potentials, P300",
-      "subject_scheme": "MeSH",
-      "scheme_uri": "https://id.nlm.nih.gov/mesh/",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D018913"
-    },
-    {
-      "term": "multi-site study"
-    }
-  ],
-  "source_hash": "d7518a0d3b0b0ed58d055c4bf15198bb7278a240cb18ee8c9dea9a4be670d5db"
+  "source_hash": "239bff7773d659b4a1aeb8e4d0c5bf1e1fcd8d631bdf9f8059a633dbac7ebade"
 }
