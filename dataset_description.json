@@ -1,61 +1,61 @@
 {
-  "Name": "Nieuwland et al. 2018: Multi-site N400 Replication Study",
-  "BIDSVersion": "1.9.0",
-  "HEDVersion": "8.2.0",
-  "DatasetType": "raw",
-  "License": "CC-BY 4.0",
-  "Authors": [
-    "Mante S. Nieuwland",
-    "Stephen Politzer-Ahles",
-    "Evelien Heyselaar",
-    "Katrien Segaert",
-    "Emily Darley",
-    "Nina Kazanina",
-    "Sarah Von Grebmer Zu Wolfsthurn",
-    "Federica Bartolozzi",
-    "Vita Kogan",
-    "Aine Ito",
-    "Diane Mézière",
-    "Dale J. Barr",
-    "Guillaume A. Rousselet",
-    "Heather J. Ferguson",
-    "Simon Busch-Moreno",
-    "Xiao Fu",
-    "Jyrki Tuomainen",
-    "Eugenia Kulakova",
-    "E. Matthew Husband",
-    "David I. Donaldson",
-    "Zdenko Kohút",
-    "Shirley-Ann Rueschemeyer",
-    "Falk Huettig"
-  ],
-  "Acknowledgements": "We thank all 356 participants and the research assistants at the 9 participating laboratories. Ethical approval was obtained at each institution according to local guidelines.",
-  "HowToAcknowledge": "Please cite: Nieuwland, M.S., Politzer-Ahles, S., Heyselaar, E., Segaert, K., Darley, E., Kazanina, N., ..., Huettig, F. (2018). Large-scale replication study reveals a limit on probabilistic prediction in language comprehension. eLife, 7, e33468.",
-  "Funding": [
-    "Max Planck Society",
-    "Economic and Social Research Council (ESRC) grants",
-    "The Netherlands Organization for Scientific Research (NWO) Veni grant 275-89-021"
-  ],
-  "ReferencesAndLinks": [
-    "https://osf.io/eyzaq/",
-    "https://doi.org/10.7554/eLife.33468",
-    "https://elifesciences.org/articles/33468"
-  ],
-  "DatasetDOI": "10.82901/nemar.nm000228",
-  "GeneratedBy": [
-    {
-      "Name": "convert_nieuwland2018.py (EEGDash)",
-      "Description": "Converted from raw BDF/BrainVision/Neuroscan CNT files from 9 laboratories to BIDS-EEG. Events enriched with stimulus metadata from REPLICATION_ITEMS.xlsx.",
-      "CodeURL": "https://github.com/bruaristimunha/EEGDash"
-    }
-  ],
-  "SourceDatasets": [
-    {
-      "URL": "https://osf.io/eyzaq/"
-    },
-    {
-      "DOI": "doi:10.7554/eLife.33468"
-    }
-  ],
-  "Version": "1.0.0"
+    "Name": "Nieuwland et al. 2018: Multi-site N400 Replication Study",
+    "BIDSVersion": "1.9.0",
+    "HEDVersion": "8.2.0",
+    "DatasetType": "raw",
+    "License": "CC-BY 4.0",
+    "Authors": [
+        "Mante S. Nieuwland",
+        "Stephen Politzer-Ahles",
+        "Evelien Heyselaar",
+        "Katrien Segaert",
+        "Emily Darley",
+        "Nina Kazanina",
+        "Sarah Von Grebmer Zu Wolfsthurn",
+        "Federica Bartolozzi",
+        "Vita Kogan",
+        "Aine Ito",
+        "Diane M\u00e9zi\u00e8re",
+        "Dale J. Barr",
+        "Guillaume A. Rousselet",
+        "Heather J. Ferguson",
+        "Simon Busch-Moreno",
+        "Xiao Fu",
+        "Jyrki Tuomainen",
+        "Eugenia Kulakova",
+        "E. Matthew Husband",
+        "David I. Donaldson",
+        "Zdenko Koh\u00fat",
+        "Shirley-Ann Rueschemeyer",
+        "Falk Huettig"
+    ],
+    "Acknowledgements": "We thank all 356 participants and the research assistants at the 9 participating laboratories. Ethical approval was obtained at each institution according to local guidelines.",
+    "HowToAcknowledge": "Please cite: Nieuwland, M.S., Politzer-Ahles, S., Heyselaar, E., Segaert, K., Darley, E., Kazanina, N., ..., Huettig, F. (2018). Large-scale replication study reveals a limit on probabilistic prediction in language comprehension. eLife, 7, e33468.",
+    "Funding": [
+        "Max Planck Society",
+        "Economic and Social Research Council (ESRC) grants",
+        "The Netherlands Organization for Scientific Research (NWO) Veni grant 275-89-021"
+    ],
+    "ReferencesAndLinks": [
+        "https://osf.io/eyzaq/",
+        "https://doi.org/10.7554/eLife.33468",
+        "https://elifesciences.org/articles/33468"
+    ],
+    "DatasetDOI": "10.82901/nemar.nm000228",
+    "GeneratedBy": [
+        {
+            "Name": "convert_nieuwland2018.py (EEGDash)",
+            "Description": "Converted from raw BDF/BrainVision/Neuroscan CNT files from 9 laboratories to BIDS-EEG. Events enriched with stimulus metadata from REPLICATION_ITEMS.xlsx.",
+            "CodeURL": "https://github.com/bruaristimunha/EEGDash"
+        }
+    ],
+    "SourceDatasets": [
+        {
+            "URL": "https://osf.io/eyzaq/"
+        },
+        {
+            "DOI": "doi:10.7554/eLife.33468"
+        }
+    ],
+    "Version": "1.1.0"
 }
