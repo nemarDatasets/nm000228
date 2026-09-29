@@ -1,9 +1,9 @@
 {
   "version": "2.0",
-  "pipeline_stage": "validated",
+  "pipeline_stage": "enriched",
   "title": "Nieuwland et al. 2018: Multi-site N400 Replication Study",
-  "description": "A large-scale multi-laboratory replication study (N=356 participants across 9 UK institutions) investigating probabilistic prediction in language comprehension using event-related potentials (ERP). Participants read sentences word-by-word while EEG was recorded, with critical manipulations of indefinite articles (a/an) preceding expected or unexpected nouns. The study tests whether readers pre-activate phonological forms of predicted words, replicating and extending DeLong, Urbach & Kutas (2005). Raw EEG data from multiple recording systems (BioSemi, BrainVision, Neuroscan) are provided in BIDS format with enriched event metadata including cloze probabilities and stimulus characteristics.",
-  "methods_description": "EEG was recorded during a word-by-word rapid serial visual presentation (RSVP) task at 2 words per second (200 ms word duration + 300 ms blank). Participants read 80 replication sentences and 80 control sentences with indefinite articles preceding either high or low cloze probability nouns. Comprehension questions were presented on a subset of trials requiring yes/no button responses. Data were collected across 9 laboratories using different recording systems (BioSemi BDF, BrainVision, Neuroscan CNT) with sampling rates ranging from 250–2048 Hz and 32–128 EEG channels plus peripheral channels.",
+  "description": "A large-scale (N=356) multi-laboratory EEG replication of DeLong, Urbach & Kutas (2005), testing whether readers pre-activate the phonological form of upcoming nouns during sentence comprehension. Participants at nine UK laboratories read sentences word-by-word in which the indefinite articles a/an preceded highly expected or unexpected nouns. Reliable N400 effects were found on target nouns but not on the preceding articles, which challenges strong accounts of probabilistic prediction. Events are enriched with stimulus metadata such as cloze probability and plausibility.",
+  "methods_description": "EEG was recorded at nine UK laboratories using BioSemi BDF, BrainVision and Neuroscan CNT systems (32 to 128 channels, 250 to 2048 Hz). Participants read sentences by RSVP (200 ms word, 300 ms blank) with 80 DeLong replication sentences and 80 control sentences, using two counterbalanced stimulus lists. Comprehension questions were asked on a subset of trials. The raw data are unfiltered and unresampled. The study followed a pre-registered protocol.",
   "license": "CC-BY 4.0",
   "dataset_type": "raw",
   "authors": {
@@ -80,9 +80,6 @@
       "term": "EEG"
     },
     {
-      "term": "event-related potentials"
-    },
-    {
       "term": "N400"
     },
     {
@@ -92,10 +89,15 @@
       "term": "prediction"
     },
     {
-      "term": "replication study"
+      "term": "replication"
     },
     {
-      "term": "multi-site"
+      "term": "event-related potentials"
+    },
+    {
+      "term": "Electroencephalography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
     }
   ],
   "related_identifiers": [
@@ -113,6 +115,16 @@
       "identifier": "https://nemar.org/dataset/nm000228",
       "identifier_type": "URL",
       "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.21105/joss.01896",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "10.1038/s41597-019-0104-8",
+      "identifier_type": "DOI",
+      "relation_type": "References"
     }
   ],
   "funding_references": [
@@ -120,11 +132,13 @@
       "funder_name": "Max Planck Society"
     },
     {
-      "funder_name": "Economic and Social Research Council",
-      "award_number": "ESRC"
+      "funder_name": "Economic and Social Research Council (ESRC) grants"
     },
     {
-      "funder_name": "The Netherlands Organization for Scientific Research",
+      "funder_name": "Economic and Social Research Council"
+    },
+    {
+      "funder_name": "Netherlands Organisation for Scientific Research",
       "award_number": "275-89-021",
       "award_title": "Veni grant"
     }
@@ -135,7 +149,7 @@
     "eeg"
   ],
   "sizes": [
-    "109.8 GB (397 files)"
+    "102 GB (405 files)"
   ],
   "formats": [
     ".bdf",
